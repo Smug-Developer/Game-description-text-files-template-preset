@@ -1,0 +1,18 @@
+Version & Date
+first public version & release date of said version
+v1.0
+
+
+
+most recent update version & release date
+
+
+installed or downloaded version & release date
+
+version change notes before & after differences like settings
+link to version changes websites
+notify on newest version available
+manual update confirmation
+manually allow automatic updates
+
+forward & backward compatibility?

@@ -1,0 +1,8 @@
+Skyworld (Above ground)
+Overworld (on ground)
+Underworld (underground)
+
+Nations
+Villages
+Hideouts
+Gathering spots

@@ -1,0 +1,5 @@
+predefined characters
+fully customizable characters (preset characters & random character generation)
+
+Choices decide and can change personality type
+learned abilities skills perks decide and can change class names (multi classings)

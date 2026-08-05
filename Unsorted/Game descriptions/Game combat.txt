@@ -1,0 +1,62 @@
+battles/combat
+
+type
+	tiles
+	turn based
+	real time
+
+real time:
+	formations predefined, custom (saved presets), free
+	battalions
+
+status conditions as enchantments
+	tired, exhausted
+	blocked vision
+	hidden
+
+Units:
+	Mix (group formation 2 Ground Melee Sword and Shield 3 Flying Ranged Bow and arrow)
+	Ground
+	Levitating
+	Flying
+
+	Melee
+	Artillery
+	Siege engines
+	Machinery
+	Illusionary
+	Magic
+	Obstacles
+	
+	Contact
+	Ranged
+	Deployables
+
+Unit languages:
+	differs from game setting language based on race/species and specific unit (dialects)
+
+Captions/Subtitles:
+	Show unit language, and also chosen language settings like English
+
+Unit positioning system formations etc
+	
+Unit statistics:
+	Health
+	Stamina
+	Mana
+
+Unit sights:
+	vision
+	hearing
+	smell
+	sound
+	feeling
+	sensing
+
+Battle resolve:
+	Manual
+	Automatic
+	Semi automatic (take over)
+	Ignore
+	Retreat
+	Reinforcements

@@ -1,0 +1,6 @@
+by default
+allow for multiple characters and have "npc" characters playable
+have client server side in singleplayer mode allows for offline mode
+have server playable in offline mode
+simple basic server to connect to including backward and forward compatibility (movement obstacles etc)
+more advanced server connected onto it (modifications)

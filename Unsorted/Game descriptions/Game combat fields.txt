@@ -1,0 +1,5 @@
+grasslands
+mountains
+underground
+dark
+swamps

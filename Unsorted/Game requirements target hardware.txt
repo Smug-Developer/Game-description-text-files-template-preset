@@ -1,0 +1,10 @@
+Minimum (lowest settings)
+Medium requirements:
+	Processing unit: 
+	Graphic card: Nvidia gtx 1080
+	Memory: 8 gb ram
+	Controls: Keyboard & mouse
+	Storage: 40-100 gb
+	Operating system: Windows 8
+	Notes: 
+Recommended (best settings ultra)
