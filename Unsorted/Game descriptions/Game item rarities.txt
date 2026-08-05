@@ -1,4 +1,4 @@
-use node/object/class/skill/ability/item/perks tree
+use node/object/class/skill/ability/item/perks/feats/traits tree
 
 "Rarities": {
 	"Description": "Chance of acquiring or finding item, from a set of multiple items, Color applies to the name and or symbol, rarity can be uncommon +1 luck on any found item skill spell and or additional enchantment",

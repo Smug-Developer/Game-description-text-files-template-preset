@@ -40,10 +40,16 @@ Captions/Subtitles:
 
 Unit positioning system formations etc
 	
-Unit statistics:
+Unit statistics (2/3 Dimensional?):
 	Health
 	Stamina
-	Mana
+	Mana (3D magic types? Heat, Liquid, Necro, Reanimation, Objects etc)
+	Morale
+	Aura
+	Weight
+	Wealth
+	Looks (3D? beauty, scary, painful, skilled, strong etc)
+	Feelings (3D? weary)
 
 Unit sights:
 	vision
@@ -52,11 +58,15 @@ Unit sights:
 	sound
 	feeling
 	sensing
+	knowing
+	connection
 
 Battle resolve:
 	Manual
 	Automatic
 	Semi automatic (take over)
 	Ignore
+	Terms (agreement, trade)
+	Intimidate
 	Retreat
 	Reinforcements

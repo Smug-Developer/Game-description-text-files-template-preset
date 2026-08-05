@@ -1,0 +1,77 @@
+use Infinite 2 and 3 dimensional unlockable node/object/class/skill/ability/item/perks/feats/traits/buildings tree
+(class as in programming classes)
+Multiclassing (Infinite) (% of maximum or so at 10 Duelist abilities you gain Duelist title, 10 Duelist and 10 Arcane, Arcane Duelist) 
+class title would be generated based on actions/unlocks/wearables/usables
+
+	Point unlocks:
+Abilities
+Skills
+Perks
+Traits
+Feats
+Items
+Social
+Buildings
+Nation/Kingdom/Village
+Faith
+Language
+
+	Cost:
+Dedicated Tree point
+Specific statistic
+Currency
+
+Magic types (biomes):
+	Heat
+	Plasma/Electrical
+	Absorption
+	Force field
+	Illusion/Mirages/Deception
+	Spiritual
+	Soul
+	Shadow/Ethereal
+	Vision
+	Movement
+	Enhancements/Enchantments
+	Curses
+	Summoning
+	Bonding/Binding
+	Healing
+	Removal
+	Cleansing
+	Brewing
+	Herbs
+	Levitation
+	Protection
+	Phasing
+	Evocation (evolving)
+	Mutational
+	Levitation
+	Sound
+	Explosion
+	Creation/Instantiation (Vines, rain)
+	Materialization
+	Reanimating
+	Air Fog/Smoke/Smog/Bubbles
+	Liquid (water)
+	Elemental (earth golem)
+	Invisibility/Camouflage
+	Magnetic
+	Transmutation (visual appearances)
+	Memoration
+
+Statistics (display only full numbers round up/down):
+	+- 1, 2, 5, 8, 10
+	% (5% of total health is added to stamina)
+	* (damage addition damage + health * stamina)
+(2/3 Dimensional?):
+	Health
+	Stamina
+	Mana (3D magic types? Heat, Liquid, Necro, Reanimation, Objects etc)
+	Morale
+	Aura
+	Weight
+	Wealth
+	Looks (3D? beauty, scary, painful, skilled, strong etc)
+	Feelings (3D? weary)
+	Memory

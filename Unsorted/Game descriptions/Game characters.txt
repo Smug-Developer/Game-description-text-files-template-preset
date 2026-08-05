@@ -3,3 +3,51 @@ fully customizable characters (preset characters & random character generation)
 
 Choices decide and can change personality type
 learned abilities skills perks decide and can change class names (multi classings)
+
+Ingestion
+Herbivore/carnivores
+
+Breathing Respiratory
+Oxygen/Gills/Absorption solar sun
+
+	Race/Species?
+Creatures (Kraken, hydra, Ogres, Trolls, Mimics (Chest, Lantern))
+Mutants/Hybrids? (Griffins)
+
+Humanoids (Humans, elves, dwarfs, Giants etc)
+Organoids (Bacteria, slimes?)
+Androids (Robotics)
+Puppets (Scarecrow, dolls)
+
+Aquatics (Jellyfish, Seahorse, Lobsters, Turtles)
+Animals (Cat, dog, bird, anteater, peacock, frogs, snail etc)
+Insects (Mantis, Ants, Butterfly, bees, dragonfly)
+Beasts (Lion/Panther)
+Plants (Tree)
+
+Elementals/Metals (Golems, Animated armor)
+Undead (Skeletons)
+Spirits/Ghosts (Shades, Ghast, )
+
+Dinosaurs (Lizards, snakes, Crocodiles, Elephants, Velociraptors)
+Draconics (Wyverns, dragons)
+
+Vampirics
+Demonic (Imps, Succubus)
+Fairies (Pixies)
+
+Aliens
+Slimes
+Blobs
+
+
+
+Amphibians
+	Aquatic/Overground
+	Flying/Overground
+	Aquatic/Flying
+	Aquatic/Underground
+
+Hybrids (humanoid/animal hybrid, humanoid/Android etc)
+	Main race/species with an affinity towards secondary(or more) race/species
+	Harpies, Kemonos, Hexapod robot, Humanoid robot, Ent (Humanoid tree)

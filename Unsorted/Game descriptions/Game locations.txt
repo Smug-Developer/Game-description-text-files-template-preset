@@ -1,8 +1,12 @@
-Skyworld (Above ground)
+Skyworld (Above ground) (portals to overworld/otherworlds on limit)
 Overworld (on ground)
+Overwater
+Underwater
 Underworld (underground)
+Otherworlds (planes portals, rifts etc)
 
 Nations
 Villages
 Hideouts
 Gathering spots
+Dungeons

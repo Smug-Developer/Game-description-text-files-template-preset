@@ -7,4 +7,4 @@ Medium requirements:
 	Storage: 40-100 gb
 	Operating system: Windows 8
 	Notes: 
-Recommended (best settings ultra)
+Recommended (best settings ultra) 144hz fps
