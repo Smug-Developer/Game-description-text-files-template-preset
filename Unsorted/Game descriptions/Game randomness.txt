@@ -7,10 +7,12 @@ Note: assign a number to anything and use the numbers for random number generati
 
 number types:
 	negative, positive
-	approximate, precise
+	approximate, precise, rounded
 	unused, used
 	new(not yet generated), generated
 
+guaranteed
+	Number between 1 and 1 result 1
 random number generic
 	usually a random number between lowest known negative number and highest known positive number
 	number between -Infinity and Infinity, result: 2938754.12983

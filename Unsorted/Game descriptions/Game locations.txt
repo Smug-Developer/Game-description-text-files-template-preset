@@ -3,10 +3,13 @@ Overworld (on ground)
 Overwater
 Underwater
 Underworld (underground)
-Otherworlds (planes portals, rifts etc)
+Otherworlds (planes portals, rifts etc, encased in slime, magma etc)
 
-Nations
+Nations/kingdoms
 Villages
 Hideouts
 Gathering spots
 Dungeons
+Ruins
+Abandoned
+castle/fortress

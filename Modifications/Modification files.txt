@@ -1,0 +1,8 @@
+Differentiate between
+Server side modifications (affects everyone)
+local/client side (affects only the one that installed it)
+Modification syncing, verifying
+Balanced, Unbalanced
+Adjustment, addition, removal, disable, enable
+Visual, Cosmetic, Statistics, Area, Map, Features, Settings, Character, Items
+Occurrence (low medium high)

@@ -33,7 +33,7 @@ Dinosaurs (Lizards, snakes, Crocodiles, Elephants, Velociraptors)
 Draconics (Wyverns, dragons)
 
 Vampirics
-Demonic (Imps, Succubus)
+Demonic (Imps, Succubus, devilish)
 Fairies (Pixies)
 
 Aliens

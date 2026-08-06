@@ -1,4 +1,4 @@
-use Infinite 2 and 3 dimensional unlockable node/object/class/skill/ability/item/perks/feats/traits/buildings tree
+use Infinite 2 and 3 dimensional unlockable node/object/class/skill/ability/item/perks/feats/traits/buildings/crafting tree
 (class as in programming classes)
 Multiclassing (Infinite) (% of maximum or so at 10 Duelist abilities you gain Duelist title, 10 Duelist and 10 Arcane, Arcane Duelist) 
 class title would be generated based on actions/unlocks/wearables/usables
@@ -20,6 +20,15 @@ Language
 Dedicated Tree point
 Specific statistic
 Currency
+Trade (Quest, item, specific deed)
+
+Crafting:
+	Scrolls
+	Items
+	Apparel
+	Mechanisms
+	Robotics
+	Consumables (Brewing, Cooking, Mixing) (Potions/Edibles) (over consumption)
 
 Magic types (biomes):
 	Heat
@@ -32,7 +41,7 @@ Magic types (biomes):
 	Shadow/Ethereal
 	Vision
 	Movement
-	Enhancements/Enchantments
+	Enhancements/Enchantments (+1 luck, objects, beings)
 	Curses
 	Summoning
 	Bonding/Binding
@@ -40,6 +49,7 @@ Magic types (biomes):
 	Removal
 	Cleansing
 	Brewing
+	Edibles
 	Herbs
 	Levitation
 	Protection
@@ -59,6 +69,14 @@ Magic types (biomes):
 	Magnetic
 	Transmutation (visual appearances)
 	Memoration
+	Incantation (Formulas)
+	Infusion (Lightning swords, Charms, objects, beings)
+	Ritual
+	Luminous/Fluorescence (shine light)
+	Dark (make area darker)
+	Time (timer based enchantments, permanent, increase length, lower etc)
+	Regeneration Increase/decrease
+	Necromancy
 
 Statistics (display only full numbers round up/down):
 	+- 1, 2, 5, 8, 10
