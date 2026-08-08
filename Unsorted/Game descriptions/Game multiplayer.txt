@@ -5,6 +5,6 @@ have server playable in offline mode
 simple basic server to connect to including backward and forward compatibility (movement obstacles etc)
 more advanced server connected onto it (modifications)
 
-Optional: locally hosted (recommended) & outsourced hosted servers (lower end computers/phones, image streaming)
+Optional: Locally/Unofficial hosted (Recommended casual) & Official data center hosted servers (Recommended by server/client response time) (Ranked)
 
 online multiplayer lobbies indicator modifications, modifications list button

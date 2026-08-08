@@ -1,4 +1,6 @@
-Documentation
-Statistics
-Data
+Documentation (Wiki)
+Statistics (Player statistics)
+Data (Player profile data)
 Tutorials/How to's(?)
+Encyclopedia (Written down descriptions of everything known (Perfect habitat, Preferences, movements, behavior) about a species including images of life cycle stages)
+Lore (Fandom)
