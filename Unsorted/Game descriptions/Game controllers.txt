@@ -1,4 +1,0 @@
-types of controllers intended usage
-
-keyboard and mouse
-wired xbox 360 controller
