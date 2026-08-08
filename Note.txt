@@ -1,1 +1,2 @@
 Keep folder structure as is
+Create new branch for release versions

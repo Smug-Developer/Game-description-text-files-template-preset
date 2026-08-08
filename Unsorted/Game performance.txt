@@ -2,7 +2,7 @@ Performance for lower end devices
 
 	Performance modes:
 Rendering visuals:
-Full 3D mode (Least performant, most visually detailed)
+Full 3D mode (Low poly mode) (Least performant, most visually detailed)
 Semi 2/3D Mode 2D Visuals that do not need to be 3D (Recommended) (Performant balance, visually balanced) <Main focus>
 Full 2D Mode (Continue calculations however hide and do not render 3D visuals) (Most performant, visually least detailed)
 

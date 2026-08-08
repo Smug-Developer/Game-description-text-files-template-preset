@@ -12,20 +12,24 @@ Nothing/Oxygen/Gills/Absorption solar sun
 
 	Race/Species?
 	Units/Commanders/Lords etc?
-Hybrids (Griffins, Humanoid Dog, Humanoid Android plant etc) <Main focus>
-Creatures (Kraken, hydra, Ogres, Trolls, Cyclops, Mimics (Chest, Lantern))
-Mutants (Humans + mutated gene that gives special ability or statistics)
+Hybrids (Griffins, Owlbear, Valkyries, Humanoid Dog, Humanoid Android plant, Mechanoid Giant Android etc) <Main focus>
+Creatures (Hydra, Ogres, Trolls, Cyclops, Mimics (Chest, Lantern))
+Voidlings/voidborn (Xer'Sai, Ur-sek etc)
+
+Scientific Mutants (Humans + mutated gene that gives special ability or statistics)
+Natural Mutants ( )
+Biological Mutants (Rahkshi, Kraata, Toa, Makuta)
 
 Humanoids (Humans, elves, dwarfs, Giants etc)
 Organoids (Bacteria, slimes?)
-Androids (Robotics)
+Androids (Robotics, Automatons)
 Mechanoids (Mechas, guns, vehicles)
 Puppets (Scarecrow, dolls)
 
 Aquatics (Jellyfish, Seahorse, Lobsters, Turtles, Mantas, Stingrays, Eels, Urchin, Seals)
 Animals (Cats, dogs, birds, anteaters, peacocks, frogs, snails, racoons, foxes etc)
 Insects (Mantis, Ants, Butterfly, bees, dragonfly, grasshoppers etc)
-Beasts (Lion/Panther, Gorillas/Apes)
+Beasts (Lion/Panther, Gorillas/Apes, Bears, Wolves)
 Plants (Trees, carnivorus, herbivorus, poisonous(species based reaction), sting)
 
 Mineralic/Crystalized
@@ -40,7 +44,8 @@ Vampirics
 Demonic (Imps, Succubus, devilish)
 Fairies (Pixies)
 
-Aliens
+Cephalia (Eldritch, Octopus, Kraken)
+Aliens (Xenomorphs)
 Slimes
 Blobs
 
