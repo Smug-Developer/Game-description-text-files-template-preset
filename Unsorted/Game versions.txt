@@ -24,7 +24,7 @@ release		(color name)
 structuring	(special property name)
 adjustment	(wavelength vs visible spectrum (overlaps))
 other		(Energy photons)
-0.(0.)(0.)(0.)(0.)0.0.0
+version 1.(0.)(0.)(0.)(0.)0.0.0
 
  0.0.0.0 colorless transparent
  1.0.0.0 black

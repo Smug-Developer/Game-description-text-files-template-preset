@@ -4,33 +4,37 @@ fully customizable characters (preset characters & random character generation)
 Choices decide and can change personality type
 learned abilities skills perks decide and can change class names (multi classings)
 
-Ingestion
+Ingestion (Eating/Drinking is not very prominent other than magic/enhancements)
 Herbivore/carnivores
 
 Breathing Respiratory
-Oxygen/Gills/Absorption solar sun
+Nothing/Oxygen/Gills/Absorption solar sun
 
 	Race/Species?
-Creatures (Kraken, hydra, Ogres, Trolls, Mimics (Chest, Lantern))
-Mutants/Hybrids? (Griffins)
+	Units/Commanders/Lords etc?
+Hybrids (Griffins, Humanoid Dog, Humanoid Android plant etc) <Main focus>
+Creatures (Kraken, hydra, Ogres, Trolls, Cyclops, Mimics (Chest, Lantern))
+Mutants (Humans + mutated gene that gives special ability or statistics)
 
 Humanoids (Humans, elves, dwarfs, Giants etc)
 Organoids (Bacteria, slimes?)
 Androids (Robotics)
+Mechanoids (Mechas, guns, vehicles)
 Puppets (Scarecrow, dolls)
 
-Aquatics (Jellyfish, Seahorse, Lobsters, Turtles)
-Animals (Cat, dog, bird, anteater, peacock, frogs, snail etc)
-Insects (Mantis, Ants, Butterfly, bees, dragonfly)
-Beasts (Lion/Panther)
-Plants (Tree)
+Aquatics (Jellyfish, Seahorse, Lobsters, Turtles, Mantas, Stingrays, Eels, Urchin, Seals)
+Animals (Cats, dogs, birds, anteaters, peacocks, frogs, snails, racoons, foxes etc)
+Insects (Mantis, Ants, Butterfly, bees, dragonfly, grasshoppers etc)
+Beasts (Lion/Panther, Gorillas/Apes)
+Plants (Trees, carnivorus, herbivorus, poisonous(species based reaction), sting)
 
+Mineralic/Crystalized
 Elementals/Metals (Golems, Animated armor)
-Undead (Skeletons)
-Spirits/Ghosts (Shades, Ghast, )
+Undead (Skeletons, Reanimated bodies)
+Spirits/Ghosts (Shades, Ghast, wraiths)
 
-Dinosaurs (Lizards, snakes, Crocodiles, Elephants, Velociraptors)
-Draconics (Wyverns, dragons)
+Dinosaurs (Lizards, snakes, Crocodiles, Mammoths/Elephants, Velociraptors, Chameleon, Rhinoceros)
+Draconics (Wyverns, dragons, wyrms)
 
 Vampirics
 Demonic (Imps, Succubus, devilish)
@@ -47,7 +51,8 @@ Amphibians
 	Flying/Overground
 	Aquatic/Flying
 	Aquatic/Underground
+	Magmatic/Aquatic/Underground/Flying
 
-Hybrids (humanoid/animal hybrid, humanoid/Android etc)
+Hybrids (a mix of 2 or more humanoid/animal hybrid, humanoid/Android etc)
 	Main race/species with an affinity towards secondary(or more) race/species
-	Harpies, Kemonos, Hexapod robot, Humanoid robot, Ent (Humanoid tree)
+	Humanoid Bird(Harpies), Kemonos, Android hexapod, Android humanoid, Ent (tree, humanoid)

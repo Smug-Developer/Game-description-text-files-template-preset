@@ -17,7 +17,7 @@ Filters
 	Platforms (Windows, PlayStation, Web, Android etc)
 	Programming languages
 	Software license
-	Methods (reports, tribunal, recording, data playback)
+	Methods (reports, tribunal, recording, data playback (data playback automated position checks))
 	Security (real money trading, boosting, inting, botting, auto clicker, scripting, metagaming, harmful content, profanity, unsafe links, violence, sexual, spam)
 	Restrictions (timeouts, shadow ban, point system, login, chat, market)
 Extras
