@@ -1,0 +1,20 @@
+launcher for game modification services
+
+modification launcher to organize modifications
+
+sort and organize modifications
+
+nexusmods
+thunderstore
+moddb
+steam workshop
+mod io
+curseforge
+degmods
+itch io game-mods
+gamemodding
+mods paradoxplaza
+midland
+loverslab
+aqxaromods
+ayakomods

@@ -1,0 +1,313 @@
+copy pasted from enginesdatabase
+
+(Launcher for game engines?)
+
+285 Game Engines (3D engines)
+285 Game Engines registered in the website
+
+Minimum requirements
+	Engine name
+	Icon image
+	Platform names
+	first version release date
+
+Sort by
+	Alphabetical
+	Newest version date
+	Downloads, visits etc(?)
+Search
+	Input field
+Filters
+	Price model
+	Platforms (Windows, PlayStation, Web, Android etc)
+	Programming languages
+	Software license
+
+Extras
+	Description
+
+001 Game Creator 	✅ 	✅ 	❌
+8th Wall 	❌ 	✅ 	✅
+A-Frame 	❌ 	✅ 	✅
+Abare Engine 	❌ 	❌ 	❌
+Adventure Game Studio 	❌ 	✅ 	✅
+AllBinary Platform 	❌ 	✅ 	✅
+Allegro 	❌ 	✅ 	✅
+Ambient 	❌ 	❌ 	✅
+Amethyst 	✅ 	❌ 	✅
+anitya 	❌ 	✅ 	✅
+Anki 3D Engine 	❌ 	❌ 	❌
+App Game Kit Studio 	❌ 	✅ 	✅
+Arc80 	❌ 	❌ 	❌
+Arcade 	✅ 	✅ 	✅
+Armory3D 	✅ 	✅ 	✅
+Atlas Engine 	❌ 	✅ 	✅
+Axarion Engine 	✅ 	❌ 	❌
+Axmol Engine 	✅ 	✅ 	✅
+Babylon.js 	✅ 	✅ 	✅
+BennuGD 	✅ 	❌ 	❌
+Bevy 	✅ 	✅ 	✅
+Bgfx 	❌ 	✅ 	❌
+Bitsy 	✅ 	✅ 	❌
+Bitty Engine 	❌ 	❌ 	✅
+Blazium 	✅ 	✅ 	✅
+Blitz3D 	✅ 	✅ 	✅
+Buildbox 	✅ 	✅ 	❌
+Butano 	❌ 	✅ 	✅
+Byond 	❌ 	❌ 	❌
+C4 Engine 	✅ 	✅ 	✅
+Calico 	✅ 	✅ 	✅
+Capsule VN Engine 	✅ 	✅ 	✅
+Carimbo 	❌ 	✅ 	✅
+Castle 	✅ 	✅ 	✅
+Cave 	✅ 	✅ 	✅
+Ceramic 	✅ 	✅ 	✅
+Chickadee 	✅ 	✅ 	✅
+Clickteam Fusion 2.5 	✅ 	✅ 	❌
+Cocos Creator 	✅ 	✅ 	✅
+Cocos2D-X 	✅ 	✅ 	✅
+Comfy 	✅ 	✅ 	✅
+Construct 3 	✅ 	✅ 	✅
+CopperCube 	✅ 	✅ 	❌
+CORE 	✅ 	✅ 	❌
+Core Engine 	✅ 	✅ 	❌
+Crown 	✅ 	✅ 	✅
+CRYENGINE 	✅ 	✅ 	✅
+CT.js 	✅ 	✅ 	✅
+Cute Framework 	❌ 	✅ 	✅
+Dagon 	❌ 	✅ 	✅
+DagorEngine 	❌ 	✅ 	✅
+Dark Basic 	❌ 	✅ 	✅
+Decker 	❌ 	✅ 	✅
+Defold 	✅ 	✅ 	✅
+DevKitSMS 	❌ 	✅ 	❌
+DOME 	✅ 	✅ 	✅
+Drag[en]gine 	✅ 	✅ 	✅
+DragonRuby 2D Engine 	✅ 	✅ 	✅
+Dummy Engine 	❌ 	✅ 	✅
+DungeonScript 	❌ 	✅ 	❌
+Dust 	❌ 	❌ 	❌
+Easel 	❌ 	✅ 	❌
+Easy FPS Editor CE 	❌ 	✅ 	❌
+Ebitengine 	✅ 	✅ 	✅
+Echo Engine 	✅ 	✅ 	✅
+Eldiron 	❌ 	✅ 	✅
+Emerald 	❌ 	✅ 	❌
+EngineLol 	❌ 	✅ 	❌
+ENIGMA 	✅ 	✅ 	✅
+Esenthel 	❌ 	✅ 	❌
+Evergine 	✅ 	✅ 	❌
+Excalibur.js 	✅ 	✅ 	✅
+EZ Engine/Editor 	✅ 	✅ 	✅
+Falco Engine 	✅ 	✅ 	❌
+Felgo 	❌ 	✅ 	✅
+FLAME 	✅ 	✅ 	✅
+FlatRedBall 	✅ 	✅ 	✅
+Flax 	✅ 	✅ 	✅
+Flecs 	❌ 	❌ 	✅
+Flowlab 	❌ 	✅ 	✅
+FNA 	✅ 	❌ 	✅
+FTEQW 	❌ 	✅ 	✅
+FWK 	✅ 	✅ 	❌
+Fyrox 	✅ 	✅ 	✅
+Game Guru MAX 	❌ 	✅ 	❌
+GameMaker 	✅ 	✅ 	✅
+GameSalad 	✅ 	✅ 	✅
+GB Studio 	✅ 	✅ 	✅
+GBDK 2020 	❌ 	✅ 	✅
+GDevelop 	✅ 	✅ 	✅
+GGEZ 	❌ 	✅ 	✅
+Gideros 	✅ 	✅ 	✅
+Godot 	✅ 	✅ 	✅
+Gondwana Game Engine 	❌ 	✅ 	✅
+Gosu 	✅ 	✅ 	✅
+Harfang 	✅ 	❌ 	❌
+HaxeFlixel 	✅ 	✅ 	✅
+Hazel Engine 	❌ 	✅ 	❌
+Heaps.io 	✅ 	✅ 	✅
+Hology Engine 	✅ 	✅ 	✅
+Hot Soup Processor 	✅ 	✅ 	✅
+Hotham 	❌ 	❌ 	✅
+Ikemen GO 	❌ 	✅ 	✅
+Indigo Engine 	❌ 	❌ 	✅
+Inform 	✅ 	✅ 	✅
+Inky 	❌ 	✅ 	✅
+Intersect 	❌ 	❌ 	✅
+Irrlicht Engine 	❌ 	❌ 	✅
+Isogenic 	❌ 	✅ 	❌
+Ji-xpress 	✅ 	❌ 	❌
+jMonkeyEngine 	✅ 	❌ 	✅
+JoEngine 	✅ 	✅ 	✅
+KaboomJS 	✅ 	✅ 	❌
+Kaiju Engine 	❌ 	✅ 	✅
+KAPLAY 	❌ 	✅ 	✅
+Kirikiri Z 	✅ 	✅ 	✅
+KNI 	❌ 	✅ 	✅
+Kohi 	❌ 	✅ 	✅
+Kool 	✅ 	✅ 	✅
+KorGE Engine 	✅ 	✅ 	✅
+LayaAir 	❌ 	❌ 	❌
+Leadwerks 	❌ 	✅ 	❌
+Libdragon 	❌ 	✅ 	✅
+LibGDX 	❌ 	✅ 	✅
+Liko12 	✅ 	❌ 	✅
+limon Engine 	✅ 	✅ 	✅
+Lisien 	✅ 	✅ 	✅
+Love2D 	❌ 	✅ 	✅
+Luanti 	✅ 	✅ 	✅
+Luminoveau 	❌ 	✅ 	✅
+Luna Visual Novel Engine 	❌ 	✅ 	✅
+Luna Visual Novel Engine 2 	✅ 	✅ 	✅
+luxe 	❌ 	❌ 	❌
+LWJGL 	✅ 	✅ 	✅
+LÖVR 	✅ 	✅ 	✅
+Mach 	✅ 	✅ 	✅
+Macroquad 	❌ 	✅ 	❌
+MANU 	✅ 	✅ 	❌
+Maratis 	❌ 	❌ 	❌
+Matali Physics 	❌ 	✅ 	✅
+MEG-4 	❌ 	✅ 	✅
+MelonJS 	✅ 	✅ 	✅
+Microsoft MakeCode 	❌ 	✅ 	❌
+microStudio 	✅ 	✅ 	✅
+Mini Micro 	❌ 	✅ 	✅
+MiniGDX 	❌ 	✅ 	✅
+MiniGL 	✅ 	✅ 	✅
+modd.io 	✅ 	✅ 	✅
+MonoGame 	✅ 	✅ 	✅
+MSXgl 	❌ 	✅ 	✅
+Murder Engine 	✅ 	✅ 	✅
+Narrat Engine 	✅ 	✅ 	✅
+Nazara Engine 	❌ 	❌ 	✅
+NcEngine 	✅ 	✅ 	❌
+nCine 	✅ 	✅ 	✅
+nebula 	❌ 	❌ 	❌
+NeoAxis 	✅ 	✅ 	✅
+NES Maker 	❌ 	❌ 	❌
+NESkit 	❌ 	✅ 	✅
+Next2D 	✅ 	✅ 	❌
+Nu 	❌ 	❌ 	✅
+O3DE 	✅ 	✅ 	✅
+Octo 	❌ 	✅ 	❌
+OGRE3D 	✅ 	✅ 	✅
+openFrameworks 	✅ 	✅ 	✅
+openspace3D 	❌ 	✅ 	✅
+ORX 	❌ 	✅ 	✅
+Overload 	✅ 	✅ 	✅
+Oxygengine 	❌ 	✅ 	✅
+p5play 	✅ 	✅ 	✅
+Panda3D 	✅ 	✅ 	✅
+Phaser 	✅ 	✅ 	✅
+PICO-8 	✅ 	✅ 	❌
+Pine 	✅ 	✅ 	✅
+Pixel 	❌ 	✅ 	✅
+Pixel Game Maker MV 	❌ 	✅ 	❌
+Pixelbox.js 	✅ 	✅ 	✅
+PixiJS 	✅ 	✅ 	✅
+Pixi’VN 	✅ 	✅ 	✅
+Planimeter 	❌ 	❌ 	✅
+PlayCanvas 	✅ 	✅ 	✅
+Playscii 	✅ 	✅ 	✅
+Polycode 	✅ 	✅ 	✅
+Polygonjs 	✅ 	✅ 	✅
+Pragma Game Engine 	❌ 	✅ 	✅
+Puzzlescript 	❌ 	✅ 	❌
+PVSnesLib 	❌ 	✅ 	✅
+PX8 	✅ 	✅ 	✅
+PyGame 	✅ 	✅ 	✅
+Pygame CE 	❌ 	✅ 	✅
+pyglet 	✅ 	✅ 	✅
+Pyxel 	✅ 	✅ 	✅
+QX82 	✅ 	✅ 	❌
+R-Cade 	❌ 	✅ 	❌
+Range Engine 	✅ 	✅ 	✅
+RavEngine 	❌ 	✅ 	❌
+RayLib 	✅ 	✅ 	✅
+RealityKit 	✅ 	✅ 	❌
+Rebel Fork (rbfx) 	❌ 	❌ 	❌
+RecoilEngine 	❌ 	✅ 	✅
+Redot Engine 	✅ 	✅ 	✅
+Ren'Py 	✅ 	✅ 	✅
+Rendercore 	❌ 	✅ 	❌
+Retro Puzzle Maker 	❌ 	✅ 	✅
+Roblox Studio 	❌ 	✅ 	❌
+Robust Toolbox 	❌ 	✅ 	✅
+Rogue Engine 	✅ 	✅ 	❌
+Rootex 	✅ 	✅ 	❌
+rot.js 	❌ 	✅ 	✅
+RouteVN 	✅ 	✅ 	✅
+RPG Architect 	❌ 	✅ 	✅
+RPG Developer Bakin 	✅ 	✅ 	✅
+Rpg in a Box 	✅ 	✅ 	✅
+RPG Maker MZ 	✅ 	✅ 	✅
+RPG Paper Maker 	✅ 	✅ 	✅
+Ruby2D 	❌ 	✅ 	✅
+sbox 	✅ 	✅ 	✅
+Scratch 	✅ 	✅ 	❌
+SDL Simple DirectMedia Layer 	❌ 	✅ 	✅
+seccia.dev 	❌ 	✅ 	❌
+SGDK 	❌ 	✅ 	✅
+Shape Engine 	❌ 	✅ 	✅
+Silk 	✅ 	❌ 	❌
+Simple 	❌ 	✅ 	✅
+Simple Game Maker 	❌ 	✅ 	✅
+SimulationFramework 	❌ 	✅ 	✅
+skylicht Engine 	❌ 	❌ 	❌
+Snap! 	❌ 	✅ 	✅
+SnaX 	✅ 	✅ 	✅
+Solar2D 	✅ 	✅ 	✅
+Solarus 	✅ 	✅ 	✅
+Source Engine 	✅ 	✅ 	✅
+Spartan Engine 	✅ 	❌ 	✅
+SpriteKit 	✅ 	✅ 	❌
+Sritewidget 	❌ 	✅ 	❌
+Stencyl 	✅ 	✅ 	✅
+Storm Engine 	❌ 	❌ 	✅
+Stride 	✅ 	✅ 	✅
+SUGAR 	✅ 	❌ 	❌
+Sundown 	❌ 	✅ 	✅
+Supernova 	✅ 	✅ 	✅
+Superpowers 	✅ 	✅ 	✅
+Surge Engine 	❌ 	✅ 	✅
+T-Engine4 	❌ 	✅ 	❌
+Taylor 	✅ 	✅ 	✅
+Tetra 	❌ 	❌ 	✅
+The Mirror 	✅ 	✅ 	✅
+The Sandbox 	❌ 	❌ 	❌
+Three.js 	❌ 	✅ 	✅
+Thunder 	❌ 	❌ 	✅
+TIC-80 	✅ 	✅ 	✅
+TilBuci 	❌ 	✅ 	✅
+Tinychoice 	❌ 	✅ 	❌
+Tofu Engine 	✅ 	✅ 	❌
+Tomb Engine 	✅ 	✅ 	✅
+Torque3d 	✅ 	✅ 	✅
+traktor 	❌ 	❌ 	✅
+Tramway SDK 	❌ 	✅ 	✅
+Trial 	✅ 	✅ 	❌
+Turbo Rascal Syntax Error 	❌ 	✅ 	❌
+Turbulenz Engine 	❌ 	❌ 	❌
+Turso3D 	❌ 	❌ 	❌
+Twine 	✅ 	✅ 	✅
+Ultra Engine 	❌ 	✅ 	❌
+Unbound 	❌ 	❌ 	❌
+Unigine 	❌ 	❌ 	✅
+Unity 	✅ 	✅ 	✅
+Unreal Engine 	✅ 	✅ 	✅
+UPBGE 	❌ 	✅ 	✅
+Urho3D 	✅ 	✅ 	✅
+Ursina Engine 	✅ 	✅ 	✅
+USAGI 	❌ 	✅ 	✅
+Verge3D 	❌ 	❌ 	✅
+Vide 	❌ 	✅ 	❌
+Voodoo 	❌ 	✅ 	❌
+WASM-4 	✅ 	✅ 	✅
+Welder Engine 	❌ 	✅ 	✅
+Wick Editor 	✅ 	✅ 	❌
+Wicked Engine 	✅ 	✅ 	✅
+Wonderland Engine 	✅ 	✅ 	✅
+Yahaha 	❌ 	❌ 	❌
+Yami RPG Editor 	❌ 	✅ 	❌
+ZeroEngine 	❌ 	✅ 	✅
+ZGB 	❌ 	✅ 	✅
+ÖbEngine 	✅ 	✅ 	✅

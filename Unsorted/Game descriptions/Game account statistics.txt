@@ -1,0 +1,17 @@
+General data
+Game started amount
+see game time file
+
+Offline mode account
+(every point of data? data recording)
+games played summaries
+games finished summaries
+battles won summaries
+battles lost summaries
+Units lost summaries
+data summaries
+
+Online mode account
+(every point of data? data recording from start to finish for a game)
+
+

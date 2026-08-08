@@ -17,8 +17,10 @@ status conditions as enchantments
 Units:
 	Mix (group formation 2 Ground Melee Sword and Shield 3 Flying Ranged Bow and arrow)
 	Ground
-	Levitating
-	Flying
+	Levitating (Natural, move over liquids, obstacles, holes that usually block paths)
+	Flying	(Air, move around obstacles)
+	Swimming (water, move through water, possibly around or under blockages)
+	Phasing (walls, obstacles, going through places that usually block paths)
 
 	Melee
 	Artillery
@@ -50,6 +52,7 @@ Unit statistics (2/3 Dimensional?):
 	Wealth
 	Looks (3D? beauty, scary, painful, skilled, strong etc)
 	Feelings (3D? weary)
+	attrition
 
 Unit sights:
 	vision

@@ -1,0 +1,13 @@
+Modifications disabled & enabled:
+Casual:
+	offline hidden rating (not shown ingame)
+	online hidden rating (not shown ingame)
+
+Ranked:
+	online rating (semi hidden shown as Trophies or plaques)
+
+Rotation:
+	Vanilla/Required modifications
+	Modifications enabled
+	Custom matches
+	Battle royale

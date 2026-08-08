@@ -1,0 +1,29 @@
+Closed source until release
+Open source version 1.0 to 2.0 (branch)
+Closed source after 2.0
+
+Game Price 40$€~
+Dlc each 10$€~
+Unofficial acquirings of the game allowed
+	On unofficial detection harmless warning pop up confirmation screen in menu allowed however to be careful
+
+Modifications created by community same treatment for official:
+Modifications (Reviewed, Approved & Required) 0$€~
+Modifications (Reviewed, Approved & Recommended) 5 to 10$€~
+Modifications (Reviewed, Approved) 0$€~
+Modifications (Reviewed, Denied (official statement: reason + summary + recommended changes)) 0$€~
+Modifications (not reviewed, Warning caution advised) 0$€~
+
+Official Modifications assign tags/notes:
+	Reviewed (Balancing, Cheat)
+	Approved (Malware, Copyright)
+	Recommended (Balanced & up to standards or within acceptable parameters)
+	Required (Automaticly installed & Enabled)
+
+Denied:
+	Cheat/Unbalanced
+	Malware/Copyright(?)
+	Performance
+
+Show official over community on availability
+Community reviewed & approved (thumbs up / down)

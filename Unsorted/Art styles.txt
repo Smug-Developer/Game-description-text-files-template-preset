@@ -1,14 +1,21 @@
-popular art styles
+art style names:
 
-Toon
-Illusion
 Anime
+Illusion
 Voxel
-Inflatable
-       --> "Realistic"???
+Sticky
+Dimensional/4th wall art
+
+Digital
 Painting(washed, smeared)
 Pencil/marker
+	--> "Realistic"???
+Toon
+Inflatable
 Outlined
 Sketch
 Symmetrical
 Surreal
+furry
+fluffy
+

@@ -6,3 +6,5 @@ Balanced, Unbalanced
 Adjustment, addition, removal, disable, enable
 Visual, Cosmetic, Statistics, Area, Map, Features, Settings, Character, Items
 Occurrence (low medium high)
+
+Offline mode, multiplayer, recommended modifications, official/community created, website? Changes that affect gameplay
