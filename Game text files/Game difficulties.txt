@@ -1,0 +1,7 @@
+One difficulty for everyone increases player amount of random multiplayer lobbies (Balanced/Recommended)
+Could use Modifications with verifying and syncing
+
+Harmless, Simple, Balanced, Advanced, Death, Custom mode
+
+Avoid changing statistics for difficulties instead change decision making targeting etc
+difficulty should not affect gameplay, statistics, abilities & story directly

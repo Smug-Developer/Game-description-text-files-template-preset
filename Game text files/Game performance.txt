@@ -1,0 +1,16 @@
+Performance for lower end devices
+
+	Performance modes:
+Rendering visuals:
+Full 3D mode (Low poly mode) (Least performant, most visually detailed)
+Semi 2/3D Mode 2D Visuals that do not need to be 3D (Recommended) (Performant balance, visually balanced) <Main focus>
+Full 2D Mode (Continue calculations however hide and do not render 3D visuals) (Most performant, visually least detailed)
+
+No rendering visuals:
+Text only Mode (Most performant, no visual details)
+Audio only Mode (Most performant, no visual details) (Narrator) (Generate audio using custom voices, default selection)
+
+Shader performance ()
+Art performance (textures, normals, size, image import engine settings etc)
+3D model performance (polygon/triangle amount, topology)
+Coding performance

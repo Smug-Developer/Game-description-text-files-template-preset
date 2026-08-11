@@ -1,2 +1,4 @@
 Keep folder structure as is
 Create new branch for release versions
+Create new branch for Open source version
+Create new branch public version

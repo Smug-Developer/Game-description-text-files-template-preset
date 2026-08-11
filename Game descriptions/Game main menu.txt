@@ -1,0 +1,21 @@
+Enter menu button
+
+main menu screen:
+
+Main menu art connected to game version (connect respective color use color as main prominent color(background?))
+
+Offline Mode (Single player) (Offline Account code (for sharing data))
+Multiplayer (Required modification) (Assign Lobby code indicator # and Online Account code (for sharing data indicator @)
+	(random not in use numbers and letters length between 1 and alphabet + numbers)
+Modifications (Offline mode, multiplayer, recommended modifications, official/community created, website?) Changes that affect gameplay
+Settings (Main sound control 50% default, Presets low medium recommended, before & after comparisons, livestreaming)
+DLC (Artwork, Music, digital books, podcasts, programming performance lessons etc) Changes that do not affect gameplay
+Generated content (Documentation, Statistics, credits etc)
+Quit
+
+Bottom right text:
+build number
+game version
+game state (early access, alpha, released)
+Amount of enabled modifications
+Link to website

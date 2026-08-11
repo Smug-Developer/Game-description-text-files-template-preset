@@ -1,0 +1,74 @@
+use node/object/class/skill/ability/item/perks/feats/traits tree
+
+"Rarities": {
+	"Description": "Chance of acquiring or finding item, from a set of multiple items, Color applies to the name and or symbol, rarity can be uncommon +1 luck on any found item skill spell and or additional enchantment",
+	"Note": "coordinate system for each rarity and graph?"
+            "Basic": {
+                "Maximum": 1000000,
+                "Chance": "105%",
+                "Color": "White"
+            },
+            "Standard": {
+                "Maximum": 100000,
+                "Chance": "50%",
+                "Color": "Brown"
+            },
+            "Common": {
+                "Maximum": 10000,
+                "Chance": "25%",
+                "Color": "Silver"
+            }, 
+            "Uncommon": {
+                "Maximum": 1000,
+                "Chance": "10%",
+                "Color": "Green"
+            },
+            "Epic": {
+                "Maximum": 100,
+                "Chance": "5%",
+                "Color": "Teal"
+            },
+            "Rare": {
+                "Maximum": 10,
+                "Chance": "1%",
+                "Color": "Magenta"
+            },
+            "Exotic": {
+                "Maximum": 5,
+                "Chance": ".5%",
+                "Color": "Orange"
+            },
+            "Legendary": {
+                "Maximum": 8,
+                "Chance": ".25%",
+                "Color": "Gold"
+            },
+            "Mythical": {
+                "Maximum": 4,
+                "Chance": ".5%",
+                "Color": "Red"
+            },
+            "Unique": {
+                "Maximum": 1,
+                "Chance": ".1%",
+                "Color": "Black"
+            },
+            "Divine": {
+                "Description": "Not found, given at a defined moment",
+                "Maximum": 2,
+                "Chance": "100%",
+                "Color": "Violet"
+            },
+            "Attuned": {
+                "Description": "Stays with you, unable or difficult to part with like a bond or a curse",
+                "Maximum": 2,
+                "Chance": "100%",
+                "Color": "Beige"
+            },
+            "Availability":{
+                "Available": "",
+                "Unavailable": "",
+                "Limited": "",
+                "Conditional": ""
+            }
+},
