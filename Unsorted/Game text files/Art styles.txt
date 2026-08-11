@@ -1,6 +1,6 @@
 art style names:
 
-Anime
+Anime <Main focus>
 Illusion
 Voxel
 Sticky

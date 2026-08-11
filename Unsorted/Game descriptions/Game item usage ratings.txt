@@ -1,6 +1,6 @@
 Ratings for items that have usage ratings
 
-"Item Usage ratings": {
+"Item condition ratings": {
 	"Description": "Usage ratings -10 to 10, used destroyed, new unused clean perfect condition, Color applies to border and or symbol"
 	"Note": "Use coordinate type system and graph?"
 	"Perfect": {

@@ -10,4 +10,4 @@ Names:
 	Protected/Filtered name
 
 words and shortened/abbreviations:
-	display translation, protected/filtered translation, proper translation, direct translation, typed translation, untranslated
+	displayed translation, known translation, protected/filtered translation, proper translation, direct translation, typed translation, untranslated

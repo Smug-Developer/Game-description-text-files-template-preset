@@ -1,6 +1,6 @@
-Closed source until release
-Open source version 1.0 to 2.0 (branch)
-Closed source after 2.0
+Private open source code until release
+Public open source code version 1.0 to 2.0 (branch)
+Private Closed source code after 2.0
 
 Game Price 40$€~
 Dlc each 10$€~
@@ -8,7 +8,7 @@ Subscriptions (monthly) 2$€~ (Visual skins, lootbox acquirables, artwork)
 Unofficial acquirings of the game allowed
 	On unofficial detection harmless warning pop up confirmation screen in menu allowed however to be careful
 
-Modifications created by community same treatment for official:
+Modifications created by community equal treatment for official:
 Modifications (Reviewed, Approved & Required) 0$€~
 Modifications (Reviewed, Approved & Recommended) 5 to 10$€~
 Modifications (Reviewed, Approved) 0$€~
@@ -27,4 +27,4 @@ Denied:
 	Performance
 
 Show official over community on availability
-Community reviewed & approved (thumbs up / down)
+Community reviewed & approved (rating between 0 and 10 (5star) (Thumbs up/thumbs down, positive/negative))

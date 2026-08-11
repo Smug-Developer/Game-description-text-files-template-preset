@@ -17,7 +17,7 @@ Rotation:
 	Modifications enabled
 	Custom matches
 
-Modes:
+Modes: <Main focus>
 	Standard (Turn based each, Predefined limited size) <Main focus>
 	Grouped (All players do their moves during the same turns)
 	Battle royale
@@ -41,3 +41,7 @@ Standalone(?) modes:
 	Arcadegames
 	VRgame
 	Tabletop game
+	Moba
+	Dedicated Text only chat
+	Dedicated Voice & Text only chat
+	Dedicated Connected Chat applications (Text, Voice, Streaming)
