@@ -2,3 +2,23 @@ versions
 modifications
 modifications versions
 synced modifications
+
+Proper verifications options (Unreliable):
+	Compare full contents of chosen (copy and or copy of the original) file
+	Created, current path of file location
+	Created, current Identification (Assigned hash),
+	Created, current File name, Version, Date of creation, File type
+	Created, current location,
+	Created, current contents
+	Created, current type (how was the file created)
+	Created, current Input type (what was used to write the file)
+	First accessed, Last accessed, last changed, every time it was changed
+	Amount of changes, what changed
+	Amount of verifications, approved, denied, total
+	Last verified
+	Verify against copies of the original
+Note it is possible for all of the verifications steps to change before during and after verification, and or be made to look original
+
+on verification error possibly create new copy(or copies)
+
+lower verification precision by reducing verification options (acceptable parameters) (verify less often) also increases chance of undetected changes possibly increases speed
