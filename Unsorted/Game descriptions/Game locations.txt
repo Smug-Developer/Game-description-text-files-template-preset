@@ -3,7 +3,7 @@ Overworld (on ground)
 Overwater
 Underwater
 Underworld (underground)
-Otherworlds (planes portals, rifts etc, encased in slime, magma etc)
+Otherworlds (planes portals, rifts etc, encased in slime, voids (space(deep underground/ocean)) magma etc)
 
 Nations/kingdoms
 Villages

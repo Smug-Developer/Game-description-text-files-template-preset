@@ -1,0 +1,1 @@
+Equip selected 2 cosmetics (mask and hat) use shader or mesh collider and common animations to look for a collision between the 2 on collision flag/mark as incompatible during runtime and use baking for performance reason on lower end hardware

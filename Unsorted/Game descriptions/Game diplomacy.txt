@@ -14,7 +14,7 @@ coordinate type system, gifts, deeds, quests, talks, feeling, faith, species, we
 harassments, attacks, plundering, invasion, war, compassion, destruction, vandalism (targeted, size)
 
 trade agreements (honored or not, scams)
-military defensive alliance 
+military defensive pact 
 protection services
 mercenaries
 patrols
@@ -34,3 +34,7 @@ ruling types
 
 
 usually moving nations
+
+
+Alliances teaming grouping:
+	Compatibility, Only possible within acceptable parameters (somewhat same ideas, personalities, strive, style) (as to avoid constant conflict within the group, team or alliance)

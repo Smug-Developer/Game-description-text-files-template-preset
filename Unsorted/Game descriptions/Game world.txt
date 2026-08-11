@@ -1,0 +1,12 @@
+overworld tiles(?)
+
+asymmetrical triangle shapes:
+increasing arch (circular)
+
+symmetrical equilateral triangular shapes:
+	squares
+	hexagons
+	octagon (overlapping?)
+
+
+no tiling/fluid

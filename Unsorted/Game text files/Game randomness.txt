@@ -1,0 +1,52 @@
+types of randomness
+
+
+number type randomness:
+
+Note: assign a number to anything and use the numbers for random number generation can be translated back, for generating sounds or colors etc.
+
+number types:
+	negative, positive
+	approximate, precise, rounded
+	unused, used
+	new(not yet generated), generated
+
+guaranteed
+	Number between 1 and 1 result 1
+random number generic
+	usually a random number between lowest known negative number and highest known positive number
+	number between -Infinity and Infinity, result: 2938754.12983
+skewed random number generation
+	usually has an affinity towards the skewed number (skewed number has a higher chance of being chosen)
+influenced random number generation
+	during generation of said random number other factors influence the result (Dice rolling against a wall)
+seeded random number generation 
+	usually a list of numbers the seed will always create the same list of numbers in that order
+	seed "DefaultSeed12345!", result: [9,2,7,5,6,...]
+ranged random number generation
+	usually numbers between predefined numbers (minimum and maximum)
+	number between 0 and 10, result: 8.172
+multi ranged random number generation
+	number between 0 and 10 or between 20 and 30, result: 26.27867
+memory random number generation
+	usually based on previous number generation or result based
+	previous result not special number increase chance of getting defined special number (skewed memory)
+
+
+sound type randomness (can be translated into numbers):
+
+
+
+decibel loudness 
+
+frequency 
+
+
+
+color type randomness (can be translated into numbers):
+2 colors overlap the colors you now have 3 colors assign
+color 1,   color 3, color 2
+-Infinity, center, Infinity
+center being a different color
+inbetween just shades that overlap with other colors
+to create Infinite color shades
