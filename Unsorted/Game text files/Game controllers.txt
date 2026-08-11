@@ -1,8 +1,0 @@
-types of controllers recommended usage
-
-Options:
-keyboard and mouse
-wired controller (360 stick type controller, xbox 360 controller)
-audio input (Official recommended modification)
-touch input (Official recommended modification)
-VR controller (modification)

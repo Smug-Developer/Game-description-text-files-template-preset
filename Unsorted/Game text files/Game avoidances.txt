@@ -1,4 +1,0 @@
-Avoid:
-
-Time manipulation during gameplay (slow down speed ups, traveling)
-Food/Drinking on a regular basis
