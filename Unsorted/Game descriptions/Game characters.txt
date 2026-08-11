@@ -1,0 +1,65 @@
+predefined characters
+fully customizable characters (preset characters & random character generation)
+
+Choices decide and can change personality type (personality tree to adjust points towards certain personality(?))
+learned abilities skills perks decide and can change class names (multi classings)
+
+Ingestion (Eating/Drinking is not very prominent other than magic/enhancements)
+Herbivore/carnivores
+
+Breathing Respiratory
+Nothing/Oxygen/Gills/Absorption solar sun
+
+	Race/Species? (not the only influencer of personality and characteristic)
+	Units/Commanders/Lords etc?
+Hybrids (Griffins, Owlbear, Valkyries, Humanoid Dog, Humanoid Android plant, Mechanoid Giant Android etc) <Main focus>
+Creatures (Hydra, Ogres, Trolls, Cyclops, Mimics (Chest, Lantern))
+Voidlings/voidborn (Xer'Sai, Ur-sek etc)
+
+Scientific Mutants (Humans + mutated gene that gives special ability or statistics)
+Natural Mutants ( )
+Biological Mutants (Rahkshi, Kraata, Toa, Makuta)
+
+Humanoids (Humans, elves, dwarfs, Giants etc)
+Organoids (Bacteria, slimes?)
+Androids (Robotics, Automatons, Computers(?)(Windows, Mac, Linux), Phones(?))
+Mechanoids (Mechas, Vehicles, Power armor)
+Puppets (Scarecrow, dolls)
+
+Aquatics (Jellyfish, Seahorse, Lobsters, Turtles, Mantas, Stingrays, Eels, Urchin, Seals)
+Animals (Cats, dogs, birds, anteaters, peacocks, frogs, snails, racoons, foxes etc)
+Insects (Mantis, Ants, Butterfly, bees, dragonfly, grasshoppers etc)
+Beasts (Lion/Panther, Gorillas/Apes, Bears, Wolves)
+Fauna/Plants (Trees, carnivorus, herbivorus, poisonous(species based reaction), sting)
+
+Mineralic/Crystalized
+Elementals/Metals (Golems, Animated armor)
+Undead (Skeletons, Reanimated bodies)
+Spirits/Ghosts (Shades, Ghast, wraiths)
+
+Dinosaurs (Lizards, snakes, Crocodiles, Mammoths/Elephants, Velociraptors, Chameleon, Rhinoceros)
+Draconics (Wyverns, dragons, wyrms)
+
+Vampirics
+Demonic (Imps, Succubus, devilish)
+Fiends	(Sahuagin, Tieflings)
+Fairies (Pixies)
+
+Cephalia (Eldritch, Octopus, Kraken)
+Aliens (Xenomorphs)
+Slimes
+Blobs
+
+
+
+Amphibians
+	Aquatic/Overground
+	Flying/Overground
+	Aquatic/Flying
+	Aquatic/Underground
+	Magmatic/Aquatic/Underground/Flying
+
+Hybrids (a mix of 2 or more humanoid/animal hybrid, humanoid/Android etc)
+	Point system(?)(mixed in with skill/trait point tree system? as starting area?)
+	Main race/species with an affinity towards secondary(or more) race/species
+	Humanoid Bird(Harpies), Kemonos, Android hexapod, Android humanoid, Ent (tree, humanoid)

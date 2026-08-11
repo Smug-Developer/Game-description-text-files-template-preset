@@ -1,0 +1,16 @@
+grasslands
+mountains
+underground
+dark
+swamps
+air
+void
+magma
+ice
+rivers
+ocean
+forest
+
+tiny small medium large gigantic
+
+custom shapes
