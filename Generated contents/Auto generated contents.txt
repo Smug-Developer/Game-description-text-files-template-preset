@@ -1,7 +1,9 @@
-Documentation (Wiki)
-Statistics (Player statistics)
-Data (Player profile data)
-Tutorials/How to's(?)
+Documentation (Wiki) (Map / Locations) (Connected to player profile(s)(?) as in unlocking(?))
+Update change notes (before, after, difference comparison, short version categorized increased damage, added new unit etc)
 Encyclopedia (Written down descriptions of everything known (Perfect habitat, Preferences, movements, behavior) about a species including images of life cycle stages)
-Lore (Fandom)
-Update change notes
+Data (Player profile data)
+Statistics (Player statistics)
+Lexicon branch of knowledge (Lore (& Fabricated lore) (Fandom))
+Tutorials/How to's(?)
+Dictionary vocabulary of a language
+Contributors
