@@ -9,13 +9,17 @@ Parchment/Pages/Papers: usually drafts and scribbles sometimes ripped out of boo
 Encyclopedia: usually containing documented information on creatures, fauna etc (Habitat, behavior, gender, images, life cycle, how to take it)
 Inscriptions/engravings/carvings: usually carved into material (stone) for durability, markings, spells, riddles, locks, mysteries, graves
 
-Distribution (based on Nation/kingdom, custom optional):
+Inspect option (Combine with "blank" pages invisible ink only visible use with uv light)
+
+Item namings: see game namings
+
+Distribution (based on Nation/Kingdom/Empire, custom optional):
 Luck
-Deception
 Random
 Voting (Participated)
 Participation (Damage, healing done etc)
 Speed (first one gets it)
+Deception
 
 Sharing:
 
@@ -27,7 +31,7 @@ Selling:
 	Created in "Location"
 	Created by "Being"
 	Known materials (Material ratings, durability, weight, hardness)
-	Lore (what happened to the item (royalty or famous, why was it created)
+	Lore (Fabricated lore) (what happened to the item (royalty or famous, why was it created)
 	Properties (Magical)
 	Condition rating
 	Beauty rating

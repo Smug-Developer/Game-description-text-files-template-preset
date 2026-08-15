@@ -1,0 +1,62 @@
+Ratings for items that have conditions ratings
+
+"Item condition ratings": {
+	"Description": "Usage ratings -10 to 10, used destroyed, new unused clean perfect condition, Color applies to border and or symbol"
+	"Note": "Use coordinate type system and graph?"
+	"Perfect": {
+		"Description": "Perfect untouched",
+		"Ratings": [10]
+		"Cost":
+	}
+	"New": {
+		"Description": "Unused original",
+		"Ratings": [8, 9]
+		"Cost":
+	}
+	"Used": {
+		"Description": "Used",
+		"Ratings": [5, 7]
+		"Cost":
+	}
+	"Worn": {
+		"Description": "dirty many uses",
+		"Ratings": [1, 4]
+		"Cost":
+	}
+	"Shabby": {
+		"Description": "Dirty small scratches dents condition",
+		"Ratings": [0, -0]
+		"Cost":
+	}
+	"Damaged": {
+		"Description": "Scratches, pieces falling off, dents",
+		"Ratings": [-1, -4]
+		"Cost":
+	}
+	"Broken": {
+		"Description": "Not in one piece",
+		"Ratings": [-5, -7]
+		"Cost":
+	}
+	"Unusable": {
+		"Description": "Unable to be used for the items intended purpose",
+		"Ratings": [-8, -9]
+		"Cost":
+	}
+	"Destroyed": {
+		"Description": "Destroyed, recoverable",
+		"Ratings": [-10]
+		"Cost":
+	}
+	"Unknown": {
+		"Description": "Condition not Identified between 0 and -0"
+		"Rating": [undefined, null, unidentified]
+	}
+}
+
+"Package rating":{
+	"Perfect": "Original packaging"
+	"Opened": "Package has been opened"
+	"Damaged": "Package has been damaged"
+	"Destroyed": "Packaged has been destroyed"
+}

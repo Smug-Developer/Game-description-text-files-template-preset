@@ -13,3 +13,20 @@ Dungeons
 Ruins
 Abandoned
 castle/fortress
+
+travel:
+rifts
+portals
+vehicles
+mechanical inventions
+magical means
+chemical reactions
+spiritual transferrings
+mounts
+pickups
+fuzing (becoming one with certain materials to enter through into another dimension)
+breaking through
+phasing
+teleporting
+wormholes (moving tunnels)
+blackholes (stationary tunnels)

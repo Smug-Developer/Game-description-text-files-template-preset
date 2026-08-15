@@ -4,6 +4,7 @@ asymmetrical triangle shapes:
 increasing arch (circular)
 
 symmetrical equilateral triangular shapes:
+	triangles
 	squares
 	hexagons
 	octagon (overlapping?)

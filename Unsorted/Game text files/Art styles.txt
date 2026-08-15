@@ -1,21 +1,25 @@
 art style names:
 
 Anime <Main focus>
-Illusion
-Voxel
-Sticky
-Dimensional/4th wall art
-
 Digital
-Painting(washed, smeared)
-Pencil/marker
-	--> "Realistic"???
-Toon
-Inflatable
+Illusion
+Sticky
+Dimensional/4th wall art (4 dimensional breakthroughs, (similar to 3 dimensional portaling))
+Voxel
+
 Outlined
-Sketch
 Symmetrical
 Surreal
-furry
 fluffy
+Nature
+Painting(washed, smeared)
+Pencil/marker
+furry
+Sketch
+
+not included:
+	--> "Realistic art style name"???
+Toon
+Inflatable
+
 

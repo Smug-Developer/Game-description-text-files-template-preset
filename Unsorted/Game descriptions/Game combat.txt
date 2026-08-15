@@ -13,6 +13,9 @@ status conditions as enchantments
 	tired, exhausted
 	blocked vision
 	hidden
+	climate
+	environment (water (shallow / deep), forest etc)
+	weather
 
 Units:
 	Mix (group formation 2 Ground Melee Sword and Shield 3 Flying Ranged Bow and arrow)
@@ -35,7 +38,8 @@ Units:
 	Deployables
 
 Unit languages:
-	differs from game setting language based on race/species and specific unit (dialects)
+	differs from game setting language based on race/species and specific unit (dialects & accents) (unlockable like skills/abilities(?))
+	(language types: Survival English, General English, Acedemic English, Advanced English, Business English)
 
 Captions/Subtitles:
 	Show unit language, and also chosen language settings like English

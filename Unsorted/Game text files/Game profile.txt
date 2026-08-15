@@ -1,0 +1,35 @@
+Offline profile
+Offline mode (access last known online data)
+Manual profile creation in game or browser
+Allow game launcher to create a profile
+Multi profile manager
+Official creator, creator/developer profile, Community profile, new account profile
+
+Offline account / profile:
+unconnected offline local number (string with length of 4) (offline profile data lookup)
+
+Online account / profile:
+Custom display name + amount of users using the same display name (Changable) (public) (sharing)
+Custom display profile url (Changable) (public) (sharing)
+Unitary Profile url hash code (private) (changable) (sharing) (Stored & sent encrypted)
+
+Main unitary hash code (private) (Not changable) (assigned or generated upon account creation) (Stored & sent encrypted)
+
+important private:
+Unitary login hash (private) (Changable) (Stored & sent encrypted)
+Custom password (private) (Changeable) (Stored & sent encrypted)
+
+Use Email and or phone number to recover account upon forgetting or losing password and or login hash
+
+use spam account creation protections
+use account login spam protections
+use recover account spam protections
+(cooldown after 4 attempts)
+
+
+English Alphabet + numbers are 37 combinations per character
+Hash consisting of a string with length 15, and each character having 37 letters and numbers and signs to choose from gives you over 999 million (over a couple trillion octillion even maybe) unitary combinations (Not including special characters, signs and uppercase)
+Possibly use 3 strings with length of 5 and add them together to have 200~ million possible combinations(?)
+Keep in mind the longer the string length the more time it takes to generate a hash including encryption and decryption
+Bake the hash generation and encryption and just assign new account to unassigned hash for performance this leaves you with encryption and decryption upon request
+Keep account connected to hash or unassign (or flag as available) after limited amount of time when not logging in (?)
