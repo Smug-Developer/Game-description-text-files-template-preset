@@ -9,3 +9,5 @@ Herbs
 Items / Magical items
 Materials
 Energy / Power / Fuel
+(Race/Species/Nation specific resources)
+(Location based resources)

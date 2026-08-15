@@ -12,30 +12,26 @@ Nothing/Oxygen/Gills/Absorption solar sun
 
 	Race/Species? (not the only influencer of personality and characteristic)
 	Units/Commanders/Lords etc?
-Hybrids (Griffins, Owlbear, Valkyries, Humanoid Dog, Humanoid Android plant, Mechanoid Giant Android etc) <Main focus>
-Creatures (Hydra, Ogres, Trolls, Cyclops, Mimics (Chest, Lantern))
+Hybrids (Humanoid hybrids, Harpies, Griffins, Owlbear, Valkyries, Kobolds, Humanoid Dog, Humanoid Android plant, Mechanoid Giant Android etc) <Main focus>
+Creatures (Uncategorized) (Hydra, Ogres, Trolls, Cyclops)
 Voidlings/voidborn (Xer'Sai, Ur-sek etc)
+
+Fauna/Flora
+Aquatics (Jellyfish, Seahorse, Lobsters, Turtles, Mantas, Stingrays, Eels, Urchin, Seals etc)
+Animals (Cows, Cats, dogs, birds, anteaters, peacocks, frogs, snails, racoons, foxes etc)
+Insects (Mantis, Ants, Butterfly, bees, dragonfly, grasshoppers, worms etc)
+Beasts (Lion/Panther, Gorillas/Apes, Bears, Wolves etc)
+Flora/Plants (Trees, carnivorus, herbivorus, poisonous(species based reaction), sting etc)
 
 Scientific Mutants (Humans + mutated gene that gives special ability or statistics)
 Natural Mutants ( )
-Biological Mutants (Rahkshi, Kraata, Toa, Makuta)
-
-Humanoids (Humans, elves, dwarfs, Giants etc)
-Organoids (Bacteria, slimes?)
-Androids (Robotics, Automatons, Computers(?)(Windows, Mac, Linux), Phones(?))
-Mechanoids (Mechas, Vehicles, Power armor)
-Puppets (Scarecrow, dolls)
-
-Aquatics (Jellyfish, Seahorse, Lobsters, Turtles, Mantas, Stingrays, Eels, Urchin, Seals)
-Animals (Cats, dogs, birds, anteaters, peacocks, frogs, snails, racoons, foxes etc)
-Insects (Mantis, Ants, Butterfly, bees, dragonfly, grasshoppers etc)
-Beasts (Lion/Panther, Gorillas/Apes, Bears, Wolves)
-Fauna/Plants (Trees, carnivorus, herbivorus, poisonous(species based reaction), sting)
+Biological Mutants (Rahkshi, Kraata, Toa, Makuta) Spriggans (tree humanoid hybrid)
 
 Mineralic/Crystalized
+Mimickin (Chest, backpack, lantern, torch etc)
 Elementals/Metals (Golems, Animated armor)
-Undead (Skeletons, Reanimated bodies)
-Spirits/Ghosts (Shades, Ghast, wraiths)
+Undead (Skeletons, Reanimated bodies, spectre)
+Spirits/Ghosts (Shades, Ghast, wraiths, phantoms)
 
 Dinosaurs (Lizards, snakes, Crocodiles, Mammoths/Elephants, Velociraptors, Chameleon, Rhinoceros)
 Draconics (Wyverns, dragons, wyrms)
@@ -46,9 +42,15 @@ Fiends	(Sahuagin, Tieflings)
 Fairies (Pixies)
 
 Cephalia (Eldritch, Octopus, Kraken)
-Aliens (Xenomorphs)
+Aliens (Xenos/Xenomorphs/Xen(?))
 Slimes
 Blobs
+
+Humanoids (Humans, elves, dwarfs, Giants etc)
+Organoids (Bacteria(?), slimes(?))
+Androids (Robotics, Automatons, Computers(?)(Windows, Mac, Linux), Phones(?))
+Mechanoids (Mechas (Power armor), Vehicles)
+Puppets (Scarecrow, dolls)
 
 
 
@@ -62,4 +64,4 @@ Amphibians
 Hybrids (a mix of 2 or more humanoid/animal hybrid, humanoid/Android etc)
 	Point system(?)(mixed in with skill/trait point tree system? as starting area?)
 	Main race/species with an affinity towards secondary(or more) race/species
-	Humanoid Bird(Harpies), Kemonos, Android hexapod, Android humanoid, Ent (tree, humanoid)
+	Humanoid Bird(Harpies), Kemonos, Android hexapod, Android humanoid, Spriggan, Ent (tree, humanoid)

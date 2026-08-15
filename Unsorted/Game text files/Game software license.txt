@@ -1,6 +1,6 @@
-Private open source code until release
-Public open source code version 1.0 to 2.0 (branch)
-Private Closed source code after 2.0
+Semi public open source code until release (new project)
+Public open source code version 1.0 to 2.0 (new project)
+Private (or (semi) public(?)) Closed source code after 2.0 (new project)
 
 Game Price 40$€~
 Dlc each 10$€~

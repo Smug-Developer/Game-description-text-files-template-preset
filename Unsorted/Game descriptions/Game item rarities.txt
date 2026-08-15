@@ -31,7 +31,7 @@ use node/object/class/skill/ability/item/perks/feats/traits tree
             "Rare": {
                 "Maximum": 10,
                 "Chance": "1%",
-                "Color": "Magenta"
+                "Color": "Pink"
             },
             "Exotic": {
                 "Maximum": 5,
@@ -49,6 +49,13 @@ use node/object/class/skill/ability/item/perks/feats/traits tree
                 "Color": "Red"
             },
             "Unique": {
+		"Description": "Distinct Uniquely",
+                "Maximum": 2,
+                "Chance": ".1%",
+                "Color": "Black"
+            },
+            "Unitary": {
+		"Description": "Singular, apart from unisons invert"
                 "Maximum": 1,
                 "Chance": ".1%",
                 "Color": "Black"
@@ -69,6 +76,12 @@ use node/object/class/skill/ability/item/perks/feats/traits tree
                 "Available": "",
                 "Unavailable": "",
                 "Limited": "",
-                "Conditional": ""
+		"Unlimited": "",
+                "Conditional": "",
+		"Unconditional": "",
+		"Known": "",
+		"Unknown": "",
+		"Clue": ""
             }
-},
+}
+(special properties glowing sparkling shine etc(?))

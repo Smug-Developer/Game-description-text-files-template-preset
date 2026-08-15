@@ -79,17 +79,17 @@ Magic types (biomes):
 	Necromancy
 
 Statistics (display only full numbers round up/down):
-	+- 1, 2, 5, 8, 10
+	+- 1, 2, 5, 8, 10 (positive / negative)
 	% (5% of total health is added to stamina)
 	* (damage addition damage + health * stamina)
-(2/3 Dimensional?):
-	Health
-	Stamina
+(2/3 Dimensional? (singular multi(10+) dimensional translated to 2/3 dimensional each)):
+	Health (1D)
+	Stamina (2D)
 	Mana (3D magic types? Heat, Liquid, Necro, Reanimation, Objects etc)
-	Morale
-	Aura
-	Weight
-	Wealth
+	Morale (1D)
+	Aura (3D)
+	Weight (1D)
+	Wealth (1D & 2D & 3D)
 	Looks (3D? beauty, scary, painful, skilled, strong etc)
 	Feelings (3D? weary)
-	Memory
+	Memory (4/5D?)

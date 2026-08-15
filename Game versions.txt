@@ -1,7 +1,9 @@
 Version & Date
-first public version & release date of said version
+first functioning public version & release date of said version
 v1.0
-
+Semi public open source code until release (new project)
+Public open source code version 1.0 to 2.0 (new project)
+Private (or (semi) public(?)) Closed source code after 2.0 (new project)
 
 most recent update version & release date
 
@@ -17,13 +19,13 @@ manually allow automatic updates
 forward & backward compatibility?
 
 
-color coded versions?
+color coded versions? (Assign simple number to color and translate number to version)
 
 release		(color name)
 (reserves)
 structuring	(special property name)
 adjustment	(wavelength vs visible spectrum (overlaps))
-other		(Energy photons)
+uncategorized	(Energy photons)
 version 1.(0.)(0.)(0.)(0.)0.0.0
 
  0.0.0.0 colorless transparent

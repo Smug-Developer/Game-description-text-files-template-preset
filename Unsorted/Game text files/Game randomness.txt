@@ -13,6 +13,10 @@ number types:
 
 guaranteed
 	Number between 1 and 1 result 1
+predefined selection random number generation
+	Choose a number from the following numbers [8, 4, 16, 11, 35]
+predefined delayed hidden random number generation
+	hide generated number until accessed at another moment
 random number generic
 	usually a random number between lowest known negative number and highest known positive number
 	number between -Infinity and Infinity, result: 2938754.12983
@@ -31,6 +35,10 @@ multi ranged random number generation
 memory random number generation
 	usually based on previous number generation or result based
 	previous result not special number increase chance of getting defined special number (skewed memory)
+physics random number generation
+	Rolling a dice, coin flip (dice types: D4, D6, D8, D10, D12, D20 (1 to 20), D100)
+	Rolling a 1 or 0 is considered a "Critical" roll with something more detailed happening to the diceroller (usually a slight inconvenience)
+	(a dice coming to a stop on its side is considered a 0, breaking is an error (new dice roll again) and not stopping before limited time (1 minute default) (distance 5 meter default) (floating magnet, someone throwing the dice far into a forest etc) is also an error
 
 
 sound type randomness (can be translated into numbers):
