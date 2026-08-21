@@ -1,0 +1,8 @@
+Offline installer:
+Install offline version provided, manually ask to update to the latest online version
+
+Requires an online connection:
+look for and or access newest version
+on unavailability look for and or access previous version
+continue until first version
+still not found and or unable to access, open web link (digital network link / browser page / open source repository)

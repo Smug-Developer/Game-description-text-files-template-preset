@@ -3,7 +3,7 @@ modifications
 modifications versions
 synced modifications
 
-Proper verifications options (Unreliable):
+Proper verifications options (Unreliable (replication), traceable):
 	Compare full contents of chosen (copy and or copy of the original) file
 	Created, current path of file location
 	Created, current Identification (Assigned hash),
@@ -22,3 +22,7 @@ Note it is possible for all of the verifications steps to change before during a
 on verification error possibly create new copy(or copies)
 
 lower verification precision by reducing verification options (acceptable parameters) (verify less often) also increases chance of undetected changes possibly increases speed
+
+possible stream data verifications (send and receiving data) (unreliable (replication), traceable)
+
+traceable errors, mismatches, failures (digital, online)
