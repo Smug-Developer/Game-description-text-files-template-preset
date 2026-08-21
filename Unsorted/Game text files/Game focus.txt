@@ -9,7 +9,7 @@ Main focus:
 	Learning / Character progression
 	Crafting / Acquiring items
 	Creatures / Dungeons / Discovering the world and the domains
-	Online / Multiplayer (Co-op) / Ranked (4 - 12 players)
+	Online / Multiplayer (Co-op) / Ranked (4 - 12+ players, 1 - 4+ co-op)
 	NPCs AI / Random events
 	Art / Animations / Sound / Programming
 	Massive units manager

@@ -1,3 +1,4 @@
+time based on world/area
 Calculation type (positive or negative)
 direction (counter or count down)
 

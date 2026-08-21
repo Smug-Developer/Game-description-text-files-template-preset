@@ -27,7 +27,6 @@ Models provided at installation, or models downloading during game running
 2D/3D models/art/audio/modifications full/partial/required/most used/on demand/pattern/recommended download
 Models provided by official/unofficial storage
 
-
 2D/4P (2 number position / coordinate, within 4 points space)(?)
 3D/8P (3 number position / coordinate, within 8 points space)(?)
 4D/8P (4 number position / coordinate, within 24 points space)(?)

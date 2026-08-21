@@ -6,7 +6,7 @@ main effect of special color properties (overlaps)
 ultra 	violet 	(solar, fluorescence, luminescent, glow in the dark, charging, invisible to visible, revealing)	>380-450<
 	blue	(cold, distant, repellent, soul)
 	teal	(light, less weighty)
-	green	(night, dark visibility, lush, natural nature, luck, sweaty, exhaustion)
+gamma(?)green	(night, dark visibility, lush, natural nature, luck, sweaty, exhaustion) >500-600<
 	ghano
 	yellow	(ingraining, unusual, destroying, innocent)
 	beige	(smearing)

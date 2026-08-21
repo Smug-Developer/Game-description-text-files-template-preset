@@ -20,6 +20,7 @@ forward & backward compatibility?
 
 
 color coded versions? (Assign simple number to color and translate number to version)
+colors not shades of colors
 
 release		(color name)
 (reserves)
@@ -34,7 +35,7 @@ version 1.(0.)(0.)(0.)(0.)0.0.0
  3.0.0.0 violet	ultra	>380-450<
  4.0.0.0 blue
  5.0.0.0 teal
- 6.0.0.0 green
+ 6.0.0.0 green gamma(?) >500-600<
  7.0.0.0 ghano
  8.0.0.0 yellow
  9.0.0.0 gold

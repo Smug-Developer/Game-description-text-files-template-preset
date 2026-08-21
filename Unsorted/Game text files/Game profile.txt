@@ -1,35 +1,62 @@
 Offline profile
 Offline mode (access last known online data)
 Manual profile creation in game or browser
-Allow game launcher to create a profile
-Multi profile manager
+Allow game launcher to create (generate) a profile
+Multi profile manager (simple switch)
 Official creator, creator/developer profile, Community profile, new account profile
 
-Offline account / profile:
-unconnected offline local number (string with length of 4) (offline profile data lookup)
+Offline / local account / profile:
+unconnected offline / local number (string with length of 4) (offline profile data lookup)
 
 Online account / profile:
-Custom display name + amount of users using the same display name (Changable) (public) (sharing)
-Custom display profile url (Changable) (public) (sharing)
-Unitary Profile url hash code (private) (changable) (sharing) (Stored & sent encrypted)
+Custom display name (changable) (public) (sharing)
+Custom display profile url (changable) (public) (sharing)
 
-Main unitary hash code (private) (Not changable) (assigned or generated upon account creation) (Stored & sent encrypted)
+Main unique number code (private) (changable) (assigned or generated upon account creation)
 
-important private:
-Unitary login hash (private) (Changable) (Stored & sent encrypted)
-Custom password (private) (Changeable) (Stored & sent encrypted)
+Encrypted private:
+Unique login number (private) (changable) (Stored & sent encrypted) (assign username or hash is slower and uses more resources(?))
+Unique Profile url (private) (changable) (Stored & sent encrypted)
+Custom name (private) (changable) (Stored & sent encrypted)
+Custom password (private) (changeable) (Stored & sent encrypted)
 
 Use Email and or phone number to recover account upon forgetting or losing password and or login hash
 
 use spam account creation protections
 use account login spam protections
-use recover account spam protections
-(cooldown after 4 attempts)
+use recover account spam protections (request additional properties (not including extras) for verification 75%+ auto proceed)
+use request changes spam protections (after login)
+(cooldown after 4 attempts per week or something (monetizing can also add spam protection))
 
 
-English Alphabet + numbers are 37 combinations per character
-Hash consisting of a string with length 15, and each character having 37 letters and numbers and signs to choose from gives you over 999 million (over a couple trillion octillion even maybe) unitary combinations (Not including special characters, signs and uppercase)
-Possibly use 3 strings with length of 5 and add them together to have 200~ million possible combinations(?)
-Keep in mind the longer the string length the more time it takes to generate a hash including encryption and decryption
-Bake the hash generation and encryption and just assign new account to unassigned hash for performance this leaves you with encryption and decryption upon request
-Keep account connected to hash or unassign (or flag as available) after limited amount of time when not logging in (?)
+(10 numbers, 26 letters, 34 special characters(signs),  1 spacer)
+Page / Decimal look up (10 per page(or section), number 33 divide and use whole number, page 3 you find the answer)
+
+(maybe hashing letters + numbers (slower(?)))
+
+(stored, all changeable) (assign, generate, randomizer or choose)
+(individidual privacy settings for each entry that is public by default)
+(profile owner should be able to request changes individually to all, and delete)
+unique number (anonymous):
+	unique hash (anonymous):
+		Encrypted (private):
+			unique profile url
+			unique name
+			unique login number (or hash)
+			password
+			email(?) optional
+			local profile number
+			offline profile number
+		Unencrypted (public/semi-public settings(?)):
+			display name
+			display profile url
+			(phone authentication(?) optional)
+		Extras:
+			Ranking
+			Account type (official / developer / community / new)
+
+login requires:
+	unique name
+	unique login number (or hash)
+	password
+optional: phone authentication(?)

@@ -1,3 +1,5 @@
+Indistinguishable from played characters
+
 Minimum requirements
 	npc name
 	Icon image
@@ -22,4 +24,17 @@ Extras
 personality, difficulty
 player takeover (upon entering / leaving game)
 speech, hearing, smell, feel, sense
-trading, buying, selling, movement, collecting, sorting, questing, exploring, reasoning, targeting, choices, leveling, building, looting, idling, equipping, using, resting, procreate, tasks, creation, destroying, removing, teaming, grouping, playing, consciousness, actions, predictions
+trading, buying, selling, movement, collecting, sorting, questing, exploring, reasoning, targeting, choices, leveling, building, looting, idling, equipping, using, resting, procreate, tasks, creation, destroying, removing, teaming, grouping, playing, actions, predictions
+consciousness, sentience, emotions
+
+prediction distances (optimal, adjustable):
+minimal
+short
+medium
+long
+far
+
+simulated (what it would be like if active, how would react if active):
+consciousness
+sentience
+emotions

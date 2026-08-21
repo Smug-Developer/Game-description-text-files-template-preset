@@ -8,6 +8,7 @@ Names:
 	Custom name
 	Short/Abbreviated name
 	Protected/Filtered name
+	Hidden name
 
 words and shortened/abbreviations:
 	displayed translation, known translation, protected/filtered translation, proper translation, direct translation, typed translation, untranslated

@@ -17,7 +17,7 @@ Pencil/marker
 furry
 Sketch
 
-not included:
+not included / avoid:
 	--> "Realistic art style name"???
 Toon
 Inflatable
