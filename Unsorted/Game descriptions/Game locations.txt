@@ -5,14 +5,13 @@ Underwater
 Underworld (underground)
 Otherworlds (planes portals, rifts etc, encased in slime, voids (space(deep underground/ocean)) magma etc)
 
+Abandoned, destroyed, populated:
 Nations/kingdoms
-Villages
+Villages/Encampments/Settlements
 Hideouts
 Gathering spots
-Dungeons
-Ruins
-Abandoned
-castle/fortress
+Dungeons/Ruins/Mines
+Castles/fortresses
 
 travel:
 rifts
@@ -30,3 +29,7 @@ phasing
 teleporting
 wormholes (moving tunnels)
 blackholes (stationary tunnels)
+
+calendar/time (?):
+seasons
+day/night

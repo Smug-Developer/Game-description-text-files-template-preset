@@ -1,6 +1,8 @@
 Modifications disabled & enabled:
 Friendly fire (Default on)
 
+(offline/online singleplayer, offline/online co-op, offline/online multiplayer)
+
 Casual:
 	offline hidden rating (not shown ingame)
 	online hidden rating (not shown ingame)
@@ -37,6 +39,9 @@ Modes: <Main focus>
 
 Queue system:
 	Cooldown timer (prevent spamming)
+
+turn timer:
+End turn button indicator highlight on turn almost over (auto) (short, medium, none)
 
 Standalone(?) modes:
 	Trading card game

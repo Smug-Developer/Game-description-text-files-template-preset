@@ -49,13 +49,13 @@ use node/object/class/skill/ability/item/perks/feats/traits tree
                 "Color": "Red"
             },
             "Unique": {
-		"Description": "Distinct Uniquely",
+		"Description": "Distinct Uniquely, one of a kind (blue flame sword, black flame sword)",
                 "Maximum": 2,
                 "Chance": ".1%",
                 "Color": "Black"
             },
             "Unitary": {
-		"Description": "Singular, apart from unisons invert"
+		"Description": "Singular one of a kind, apart from unisons invert (elemental sword)"
                 "Maximum": 1,
                 "Chance": ".1%",
                 "Color": "Black"

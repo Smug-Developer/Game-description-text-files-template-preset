@@ -6,7 +6,7 @@ type
 	real time
 
 real time:
-	formations predefined, custom (saved presets), free
+	formations predefined, custom (saved presets), free mode, solo units
 	battalions
 
 status conditions as enchantments
@@ -77,3 +77,6 @@ Battle resolve:
 	Intimidate
 	Retreat
 	Reinforcements
+
+co-op:
+assign specific battalions/units to co-op partner (default recommended (customizable) preset) (optional: manual, semi-manual(default), auto)

@@ -1,5 +1,6 @@
 use Infinite 2 and 3 dimensional unlockable node/object/class/skill/ability/item/perks/feats/traits/buildings/crafting tree
-(class as in programming classes)
+(class as in programming classes) (ingame character changes (acquiring or upgrading abilities / feats / traits) not obstructed unless learning difficulty(?))
+accuracy reliability increasing learning on more usage(?)
 Multiclassing (Infinite) (% of maximum or so at 10 Duelist abilities you gain Duelist title, 10 Duelist and 10 Arcane, Arcane Duelist) 
 class title would be generated based on actions/unlocks/wearables/usables
 
@@ -93,3 +94,5 @@ Statistics (display only full numbers round up/down):
 	Looks (3D? beauty, scary, painful, skilled, strong etc)
 	Feelings (3D? weary)
 	Memory (4/5D?)
+
+Allow simpler unit/character management during others turns (?) (formations / custom presets / items / spells / statistics)

@@ -1,19 +1,19 @@
 Semi public open source code until release (new project)
-Public open source code version 1.0 to 2.0 (new project)
-Private (or (semi) public(?)) Closed source code after 2.0 (new project)
+Public open source code version 1.0 to 3.0 (new project)
+Private (or (semi) public(?)) Closed source code after 3.0 (new project)
 
-Game Price 40$€~
-Dlc each 10$€~
-Subscriptions (monthly) 2$€~ (Visual skins, lootbox acquirables, artwork)
+Game Price 40€~ (in all currencies same number not converted)
+Dlc each 10€~
+Subscriptions (monthly) 2€~ (Visual skins, lootbox acquirables, artwork, learning material)
 Unofficial acquirings of the game allowed
-	On unofficial detection harmless warning pop up confirmation screen in menu allowed however to be careful
+	On unofficial detection harmless warning confirmation screen in menu allowed however to be careful (ask to download official)
 
 Modifications created by community equal treatment for official:
-Modifications (Reviewed, Approved & Required) 0$€~
-Modifications (Reviewed, Approved & Recommended) 5 to 10$€~
-Modifications (Reviewed, Approved) 0$€~
-Modifications (Reviewed, Denied (official statement: reason + summary + recommended changes)) 0$€~
-Modifications (not reviewed, Warning caution advised) 0$€~
+Modifications (Reviewed, Approved & Required) 0€~
+Modifications (Reviewed, Approved & Recommended) 0€~
+Modifications (Reviewed, Approved) 0€~
+Modifications (Reviewed, Denied (official statement: reason + summary + recommended changes)) 0€~
+Modifications (not reviewed, Warning caution advised) 0€~
 
 Official Modifications assign tags/notes:
 	Reviewed (Balancing, Cheat)
