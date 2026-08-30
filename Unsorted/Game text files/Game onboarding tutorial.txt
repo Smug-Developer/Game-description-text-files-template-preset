@@ -1,7 +1,0 @@
-onboarding
-guidance
-tutorials
-how to's
-documentation/wikis
-
-No (self explanatory), or short in game onboarding tutorial going over the basics

@@ -1,5 +1,0 @@
-Live streaming optional:
-	Game data (maps/battles/players (Game maps data overlayed)) lookups
-	Voting on streamer choices (Viewer take over when streamer away)
-	Voting on npc/ai controlled choices
-	Voting on game events (multi streamer voting)
