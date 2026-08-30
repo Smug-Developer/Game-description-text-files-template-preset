@@ -18,3 +18,13 @@ One of a kind items loot table transferable through other gameplay sessions thro
 
 optimal recommended playstyle <main focus>
 mix of co-op and multiplayer (Pve(?) & PvP)
+modification syncing
+
+
+
+(quick sort, connection status efficiency) (custom multi sort)
+(quick filter, region, passworded, status, current slots)
+lobby status, lobby type, lobby name, host display name, current/maximum slots, spectators, lock/passworded, map/location(?), connection status efficiency, host region, network type, modifications
+
+Refresh (cooldown)
+host, join, join with code, lobby info (more specific details)

@@ -6,7 +6,7 @@ Minimal requirements
 
 Recommended official modification (Nudity/sexual, Violence blood etc)
 
-Customizable colors (Npcs, stolen items, Neutral, Enemy, Ally, Pacts)
+Customizable colors (Companions, Npcs, tagged items (quest/looking for/stolen), Neutral, Enemy, Ally, Pacts, Statistics) (preview)
 Custom & Preset Color blindness
 
 cooldown timers on options/modifications etc prevent spamming

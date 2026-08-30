@@ -7,3 +7,4 @@ Custom preset modes:
 
 Avoid changing statistics for difficulties instead change decision making targeting etc
 difficulty should not affect gameplay, statistics, abilities & story directly
+difficulty affecting chosen personalities(ai) personalities with knowledge of combat, strategies etc

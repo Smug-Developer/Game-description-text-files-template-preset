@@ -7,7 +7,7 @@ Otherworlds (planes portals, rifts etc, encased in slime, voids (space(deep unde
 
 Abandoned, destroyed, populated:
 Nations/kingdoms
-Villages/Encampments/Settlements
+Villages/Encampments/Settlements/outposts
 Hideouts
 Gathering spots
 Dungeons/Ruins/Mines

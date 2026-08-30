@@ -3,6 +3,8 @@ Friendly fire (Default on)
 
 (offline/online singleplayer, offline/online co-op, offline/online multiplayer)
 
+multiplayer and co-op companions (custom and or ai(s)(personalities))
+
 Casual:
 	offline hidden rating (not shown ingame)
 	online hidden rating (not shown ingame)
@@ -20,12 +22,14 @@ Rotation:
 	Official Vanilla/Required modifications (save file, presets)
 	Official Modifications enabled (modification syncing) (save file, presets)
 	User hosted custom matches (modification syncing, show lobbies based on modifications) (save files/presets)
+	maps
 
 Modes: <Main focus>
 	Standard (Turn based each, Predefined limited size) <Main focus>
 	Battle royale
 	Inverted
-	Custom
+	Custom (tournament mode) (persistant units(?) mode multi battles)
+	Spectator mode (connections(friends) / on going / chosen ranking / replays)
 	Trading card game (Can also be played in game during others turns or standalone application)
 	Standard Grouped (All players do their moves during the same turns)
 	
@@ -35,7 +39,12 @@ Modes: <Main focus>
 	Inverted Grouped Battle royale (Predefined unlimited size, join/leave system)
 	
 	Team battles (8v8 each controlling (4?) battalions)
-	Custom mode
+	Custom mode (practice mode) (modification syncing)
+
+Default (team) battles:
+	Casual: (map rotation) (balanced difficulty) (8v8)
+	Ranked: (map rotation) (balanced difficulty) (8v8)
+	Custom: (map rotation) (balanced difficulty) (8v8)
 
 Queue system:
 	Cooldown timer (prevent spamming)
@@ -43,9 +52,9 @@ Queue system:
 turn timer:
 End turn button indicator highlight on turn almost over (auto) (short, medium, none)
 
-Standalone(?) modes:
+Standalone(?) modes (usually multiplayer):
 	Trading card game
-	Rpgs (2D, 3D, Dungeon crawlers, Horde(Endless))
+	Rpgs (2D, 3D, Dungeon crawlers, Horde(Endless), roguelikes)
 	Puzzles
 	Sidescrollers
 	Visual novels
@@ -53,9 +62,9 @@ Standalone(?) modes:
 	Boardgame
 	Idlegame (2D, 3D)
 	Arcadegames
-	VRgame
+	VRgames (multiplayer)
 	Tabletop game
-	Moba (8v8)
+	Moba (8vs8)
 	Dedicated Text only chat
 	Dedicated Voice & Text only chat
-	Dedicated Connected Chat applications (Text, Voice, Streaming)
+	Dedicated Connected Chat application(s) (Text, Voice, Streaming)

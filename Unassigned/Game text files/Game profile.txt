@@ -29,7 +29,13 @@ use request changes spam protections (after login)
 (cooldown after 4 attempts per week or something (monetizing can also add spam protection))
 
 
-(10 numbers, 26 letters, 34 special characters(signs),  1 spacer)
+database types (multi dimensional, coordinates/positioning system)
+
+(separated, get combination from)
+["colorname", color]: [number, number, number]: ["name", "profile url", "password"]
+
+
+(10 numbers, 26 letters (lowercase) (6 vowels, 20 consonants), 34 special characters(signs),  1 spacer(special number/character(?)))
 Page / Decimal look up (10 per page(or section), number 33 divide and use whole number, page 3 you find the answer)
 
 (maybe hashing letters + numbers (slower(?)))
@@ -37,8 +43,9 @@ Page / Decimal look up (10 per page(or section), number 33 divide and use whole 
 (stored, all changeable) (assign, generate, randomizer or choose)
 (individidual privacy settings for each entry that is public by default)
 (profile owner should be able to request changes individually to all, and delete)
+(transform hash to number(?))
 unique number (anonymous):
-	unique hash (anonymous):
+	//unique hash (anonymous):
 		Encrypted (private):
 			unique profile url
 			unique name
@@ -47,16 +54,20 @@ unique number (anonymous):
 			email(?) optional
 			local profile number
 			offline profile number
+			Profile creation date
 		Unencrypted (public/semi-public settings(?)):
 			display name
 			display profile url
 			(phone authentication(?) optional)
 		Extras:
 			Ranking
-			Account type (official / developer / community / new)
+			display creation date (display in years or label, new old etc optional)
+			Account type (official / organization / developer / community)
+			Used by (amount, one or multiple)
+			Projects
 
 login requires:
 	unique name
-	unique login number (or hash)
+	unique login number (or hash) (encrypted) (or create login string from profile url + login number)
 	password
 optional: phone authentication(?)

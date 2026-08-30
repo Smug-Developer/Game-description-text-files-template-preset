@@ -1,0 +1,4 @@
+Free online demo
+Demo based on newest version
+Noticable "Demo, not the released version" text
+Small short application showing minimal features and (random generated) characters (environment etc) that are or are not in the released version for the game (customizable) (not implemented(locked) features)

@@ -17,6 +17,26 @@ status conditions as enchantments
 	environment (water (shallow / deep), forest etc)
 	weather
 
+tactics (limited ranged):
+	default melee
+	wait for input
+	random
+	at will
+	move path (custom path)
+
+weapon types:
+	melee on close encounter (default)
+	ranged on far encounter (default)
+	custom (manually) (on hit) (on threat prediction)
+	semi automatic (on threat (specific) unit type change)
+	automatic
+
+stances:
+	guard
+	custom (unit distances (formation))
+	custom (attack range)
+	attack
+
 Units:
 	Mix (group formation 2 Ground Melee Sword and Shield 3 Flying Ranged Bow and arrow)
 	Ground
@@ -46,7 +66,7 @@ Captions/Subtitles:
 
 Unit positioning system formations etc
 	
-Unit statistics (2/3 Dimensional?):
+Unit statistics (2/3+ Dimensional?):
 	Health
 	Stamina
 	Mana (3D magic types? Heat, Liquid, Necro, Reanimation, Objects etc)
@@ -68,7 +88,23 @@ Unit sights:
 	knowing
 	connection
 
-Battle resolve:
+knowledge types:
+	map knowledge
+	area knowledge
+	unit/species knowledge
+	environmental knowledge
+	item knowledge
+	magical knowledge
+	strategies
+	
+Unit predictions based on knowledge(?) and skill (accuracy) (in combat knowledge) (estimated movements(?))
+	Melee/Ranged estimated trajectories
+	Melee/Ranged estimated minimum, maximum flight
+	Melee/Ranged estimated casualties
+
+leader(s) advisories recommendations / advises indicators
+
+Battle resolve (show estimations guessing/calculations, leader(s)):
 	Manual
 	Automatic
 	Semi automatic (take over)

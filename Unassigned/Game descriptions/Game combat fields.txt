@@ -1,0 +1,23 @@
+grasslands
+mountains
+underground
+dark
+swamps
+air
+void
+magma
+ice
+rivers
+ocean
+forest
+
+tiny small medium large gigantic
+
+custom sizes (generated random)
+custom shapes
+
+enter/leave area(s) (delayed reinforcements, unknown/unexpected units)
+placement
+
+
+dungeon entrances, hiding areas(?)

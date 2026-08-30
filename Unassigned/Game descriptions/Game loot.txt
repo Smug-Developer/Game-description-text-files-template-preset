@@ -9,7 +9,7 @@ Parchment/Pages/Papers: usually drafts and scribbles sometimes ripped out of boo
 Encyclopedia: usually containing documented information on creatures, fauna etc (Habitat, behavior, gender, images, life cycle, how to take it)
 Inscriptions/engravings/carvings: usually carved into material (stone) for durability, markings, spells, riddles, locks, mysteries, graves
 
-Inspect option (Combine with "blank" pages invisible ink only visible use with uv light)
+Inspect option (Combine with "blank" pages invisible ink only visible use with uv light and or specific spells)
 
 Item namings: see game namings
 
@@ -20,6 +20,8 @@ Voting (Participated)
 Participation (Damage, healing done etc)
 Speed (first one gets it)
 Deception
+
+Identifying:
 
 Sharing:
 
