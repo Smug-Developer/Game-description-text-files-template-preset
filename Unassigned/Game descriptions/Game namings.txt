@@ -1,0 +1,14 @@
+Incase of illusions/deceptions or not knowing or having learned enough of a specific language or lost, deciphering
+
+English (Language name always displayed in respective language on availability otherwise default chosen language):
+Names:
+	Proper name
+	Display name
+	Known name
+	Custom name
+	Short/Abbreviated name
+	Protected/Filtered name
+	Hidden name
+
+words and shortened/abbreviations:
+	displayed translation, known translation, protected/filtered translation, proper translation, direct translation, typed translation, untranslated

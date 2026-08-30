@@ -1,0 +1,10 @@
+One difficulty for everyone increases player amount of (random) multiplayer lobbies (Balanced/Recommended)
+Could use Modifications with verifying and syncing
+
+Balanced <Main focus> Custom mode <Secondary focus>
+Custom preset modes:
+	Harmless, Simple, (Balanced), Advanced, Death
+
+Avoid changing statistics for difficulties instead change decision making targeting etc
+difficulty should not affect gameplay, statistics, abilities & story directly
+difficulty affecting chosen personalities(ai) personalities with knowledge of combat, strategies etc

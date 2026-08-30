@@ -1,0 +1,9 @@
+Equip selected 2 cosmetics (mask and hat) use shader or mesh collider and common animations (constraints) to look for a collision between the 2 on collision flag/mark as incompatible during runtime and use baking for performance reason on lower end hardware
+
+use baking for visual changes on lower end hardware
+use realtime on higher end hardware
+use baking and realtime on available hardware
+custom choose (use baking or realtime, on mismatch) (outdated (provided / self) baked preset, realtime coding error)
+
+
+use baking and realtime on higher end (use realtime, on mismatch) (outdated baked version) (bake on start up / load(?)) (provided baked version)

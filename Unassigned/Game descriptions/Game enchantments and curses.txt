@@ -1,0 +1,13 @@
+types of spells
+
+permanent
+time
+usages
+broken
+activation
+
+Enchanting usually characters or items
+	special effects usually increasing statistics
+
+Curses usually characters or items
+	special effects usually lowering statistics

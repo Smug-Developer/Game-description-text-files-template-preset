@@ -1,0 +1,28 @@
+Character / Unit creator
+Additional application / browser based
+Upon creating custom character, (Standalone version, by default accessible through in game) opens the application / browser
+
+Tooltips: 
+	Ears allow for hearing, no ears no hearing!
+
+Selection:
+Assign adjustable number values
+next/previous button
+directly adjust number to change selection
+Selectable items
+navigational
+
+Race/Species Colors (point based(?) like abilities/skills/languages(?))
+	(Optionalities depend on chosen race/species)
+	(Procedurally generate a preview character (Random buttons, add randomness types)) (Official selected preset)
+Hair (Optional)
+Head (Optional)
+Torso
+Arms (Optional)
+Legs (Optional)
+Ears (Optional) (Symmetrical / Asymmetrical / mirror mode)
+Tails (Optional)
+
+Allow for full rotation of character in every direction
+Add return to default rotation button
+Allow for temporarily hiding other parts (hide all except selected button, show all button)

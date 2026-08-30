@@ -1,0 +1,73 @@
+Offline profile
+Offline mode (access last known online data)
+Manual profile creation in game or browser
+Allow game launcher to create (generate) a profile
+Multi profile manager (simple switch)
+Official creator, creator/developer profile, Community profile, new account profile
+
+Offline / local account / profile:
+unconnected offline / local number (string with length of 4) (offline profile data lookup)
+
+Online account / profile:
+Custom display name (changable) (public) (sharing)
+Custom display profile url (changable) (public) (sharing)
+
+Main unique number code (private) (changable) (assigned or generated upon account creation)
+
+Encrypted private:
+Unique login number (private) (changable) (Stored & sent encrypted) (assign username or hash is slower and uses more resources(?))
+Unique Profile url (private) (changable) (Stored & sent encrypted)
+Custom name (private) (changable) (Stored & sent encrypted)
+Custom password (private) (changeable) (Stored & sent encrypted)
+
+Use Email and or phone number to recover account upon forgetting or losing password and or login hash
+
+use spam account creation protections
+use account login spam protections
+use recover account spam protections (request additional properties (not including extras) for verification 75%+ auto proceed)
+use request changes spam protections (after login)
+(cooldown after 4 attempts per week or something (monetizing can also add spam protection))
+
+
+database types (multi dimensional, coordinates/positioning system)
+
+(separated, get combination from)
+["colorname", color]: [number, number, number]: ["name", "profile url", "password"]
+
+
+(10 numbers, 26 letters (lowercase) (6 vowels, 20 consonants), 34 special characters(signs),  1 spacer(special number/character(?)))
+Page / Decimal look up (10 per page(or section), number 33 divide and use whole number, page 3 you find the answer)
+
+(maybe hashing letters + numbers (slower(?)))
+
+(stored, all changeable) (assign, generate, randomizer or choose)
+(individidual privacy settings for each entry that is public by default)
+(profile owner should be able to request changes individually to all, and delete)
+(transform hash to number(?))
+unique number (anonymous):
+	//unique hash (anonymous):
+		Encrypted (private):
+			unique profile url
+			unique name
+			unique login number (or hash)
+			password
+			email(?) optional
+			local profile number
+			offline profile number
+			Profile creation date
+		Unencrypted (public/semi-public settings(?)):
+			display name
+			display profile url
+			(phone authentication(?) optional)
+		Extras:
+			Ranking
+			display creation date (display in years or label, new old etc optional)
+			Account type (official / organization / developer / community)
+			Used by (amount, one or multiple)
+			Projects
+
+login requires:
+	unique name
+	unique login number (or hash) (encrypted) (or create login string from profile url + login number)
+	password
+optional: phone authentication(?)

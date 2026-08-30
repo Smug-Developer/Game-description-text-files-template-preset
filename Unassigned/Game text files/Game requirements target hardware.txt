@@ -1,0 +1,17 @@
+Minimum (lowest settings) (Target 25hz fps)
+Medium requirements (Target 60hz fps refresh rate, 1920x1080p resolution, 16:9 (16:10) Aspect ratio, Viewing area 22"~, Screen size (?)):
+	Processing unit: 
+	Graphic card: Nvidia gtx 1080
+	Memory: 8 gb ram
+	Controls: Keyboard & mouse
+	Storage: 40-100 gb
+	Operating system: Windows 8
+	Notes: 
+Recommended (best settings ultra) (target 144hz fps)
+
+Game streaming play from anywhere, played on a different computer and streaming the recording to the player (lower end computers/phones, recording streaming)
+
+Operating systems: Windows 8+, Linux, Mac (?)
+Newest operating system <Main focus>
+
+Target species Humans<Main focus> & AI

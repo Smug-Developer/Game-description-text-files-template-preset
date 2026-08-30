@@ -1,0 +1,20 @@
+faith religion type(s):
+nothing
+deeds (deeds towards the alignment, helping others, wars, creating items)
+trinkets (items to carry share a bond)
+offerings (can be ritualistic items, liquids, art etc)
+sacrifices (can be ritualistic self or others bodies or bodily fluids etc)
+worship (buildings, statues, art items)
+sacred (buildings, shrines, sanctuaries, statues, art, items)
+prayers (taking time to communicate)
+chants
+
+
+God(s) assigned/chosen(?):
+Creator(s) of special items, abilities, spells, guidance (quests, faith/religious trades/offerings), species, languages
+
+Divine(s)(?) also referred to as God(s):
+Creator(s) of the worlds, areas, travel between worlds, time, seasons, cycles(day/night), deaths, npcs
+
+also referred to as God(s):
+Creator(s) of the realm, dimensions etc

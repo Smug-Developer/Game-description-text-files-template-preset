@@ -1,0 +1,29 @@
+overworld tiles(?)
+
+free form type movement (optional tiled, subdivided tiles(?))
+
+asymmetrical triangle shapes:
+increasing arch (circular)
+
+symmetrical equilateral triangular shapes:
+	triangles
+	squares
+	hexagons
+	octagon (overlapping?)
+
+
+no tiling/fluid
+
+knowledge types:
+	map knowledge
+	area knowledge
+	unit/species knowledge
+	environmental knowledge
+	item knowledge
+	magical knowledge
+	strategies
+	
+predictions based on knowledge(?) and skill (accuracy) (in combat knowledge) (estimated movements(?))
+	
+
+leader(s) advisories recommendations / advises indicators

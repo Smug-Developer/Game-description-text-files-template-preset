@@ -1,0 +1,22 @@
+time based on world/area
+Calculation type (positive or negative)
+direction (counter or count down)
+
+Active (& Idle) Amount of time spent:
+	ingame
+	combat
+	social (diplomacy, trade agreements)
+	inventory
+	upgrades
+	
+	ingame menu
+	main menu
+	multiplayer tab
+	settings tab
+	
+Gregorian
+	hours:minutes:seconds era (separation ":")
+	days/months/years (separation "/")
+	counter & positive numbers
+
+Displayed time, translated time, perceived translation, untranslated time

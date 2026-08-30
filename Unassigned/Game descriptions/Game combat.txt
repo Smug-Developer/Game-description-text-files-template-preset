@@ -1,0 +1,118 @@
+battles/combat
+
+type
+	tiles
+	turn based
+	real time
+
+real time:
+	formations predefined, custom (saved presets), free mode, solo units
+	battalions
+
+status conditions as enchantments
+	tired, exhausted
+	blocked vision
+	hidden
+	climate
+	environment (water (shallow / deep), forest etc)
+	weather
+
+tactics (limited ranged):
+	default melee
+	wait for input
+	random
+	at will
+	move path (custom path)
+
+weapon types:
+	melee on close encounter (default)
+	ranged on far encounter (default)
+	custom (manually) (on hit) (on threat prediction)
+	semi automatic (on threat (specific) unit type change)
+	automatic
+
+stances:
+	guard
+	custom (unit distances (formation))
+	custom (attack range)
+	attack
+
+Units:
+	Mix (group formation 2 Ground Melee Sword and Shield 3 Flying Ranged Bow and arrow)
+	Ground
+	Levitating (Natural, move over liquids, obstacles, holes that usually block paths)
+	Flying	(Air, move around obstacles)
+	Swimming (water, move through water, possibly around or under blockages)
+	Phasing (walls, obstacles, going through places that usually block paths)
+
+	Melee
+	Artillery
+	Siege engines
+	Machinery
+	Illusionary
+	Magic
+	Obstacles
+	
+	Contact
+	Ranged
+	Deployables
+
+Unit languages:
+	differs from game setting language based on race/species and specific unit (dialects & accents) (unlockable like skills/abilities(?))
+	(language types: Survival English, General English, Acedemic English, Advanced English, Business English)
+
+Captions/Subtitles:
+	Show unit language, and also chosen language settings like English
+
+Unit positioning system formations etc
+	
+Unit statistics (2/3+ Dimensional?):
+	Health
+	Stamina
+	Mana (3D magic types? Heat, Liquid, Necro, Reanimation, Objects etc)
+	Morale
+	Aura
+	Weight
+	Wealth
+	Looks (3D? beauty, scary, painful, skilled, strong etc)
+	Feelings (3D? weary)
+	attrition
+
+Unit sights:
+	vision
+	hearing
+	smell
+	sound
+	feeling
+	sensing
+	knowing
+	connection
+
+knowledge types:
+	map knowledge
+	area knowledge
+	unit/species knowledge
+	environmental knowledge
+	item knowledge
+	magical knowledge
+	strategies
+	
+Unit predictions based on knowledge(?) and skill (accuracy) (in combat knowledge) (estimated movements(?))
+	Melee/Ranged estimated trajectories
+	Melee/Ranged estimated minimum, maximum flight
+	Melee/Ranged estimated casualties
+
+leader(s) advisories recommendations / advises indicators
+
+Battle resolve (show estimations guessing/calculations, leader(s)):
+	Manual
+	Automatic
+	Semi automatic (take over)
+	Ignore
+	Terms (agreement, trade)
+	Intimidate
+	Retreat
+	Reinforcements
+
+co-op:
+assign specific battalions/units to co-op partner (default recommended (customizable) preset) (optional: manual, semi-manual(default), auto)

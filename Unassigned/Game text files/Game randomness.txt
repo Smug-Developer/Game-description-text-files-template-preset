@@ -1,0 +1,79 @@
+types of randomness
+
+
+number type randomness:
+
+Note: assign a number to anything and use the numbers for random number generation can be translated back, for generating sounds or colors etc.
+
+number types:
+	negative, positive
+	approximate, precise, rounded
+	unused, used (condition)
+	new unique/unitary (not yet generated), generated (memory)
+	sum (mathematical operation to result)
+
+guaranteed random number generation:
+	Number between 2 and 2 result 2
+
+sum random number generation:
+	generate two random numbers and use a mathematical operation on them together for the result
+
+predefined selection random number generation:
+	Choose a number from the following numbers [8, 4, 16, 11, 35]
+
+predefined delayed hidden random number generation:
+	hide generated number until accessed at another moment
+
+random number generic:
+	usually a random number between lowest known negative number and highest known positive number
+	number between -Infinity and Infinity, result: 2938754.12983
+
+skewed random number generation:
+	usually has an affinity towards the skewed number (skewed number has a higher chance of being chosen)
+
+influenced random number generation:
+	during generation of said random number other factors influence the result (Dice rolling against a wall)
+
+seeded random number generation:
+	usually a list of numbers the seed will always create the same list of numbers in that order
+	seed "DefaultSeed12345!", result: [9,2,7,5,6,...]
+
+ranged random number generation:
+	usually numbers between predefined numbers (minimum and maximum)
+	number between 0 and 10, result: 8.172
+
+multi ranged random number generation:
+	number between 0 and 10 or between 20 and 30, result: 26.27867
+
+memory type random number generation:
+	remembers/stores generated random numbers
+
+result chance changing random number generation (memory):
+	usually based on previous number generation or result based
+	previous result not special number increase chance of getting defined special number (skewed memory)
+
+physics random number generation:
+	Rolling a dice, coin flip (dice types: D4, D6, D8, D10, D12, D20 (1 to 20), D100)
+	Rolling a 1 or 0 is considered a "Critical" roll with something more detailed happening to the diceroller (usually a slight inconvenience)
+	(a dice coming to a stop on its side is considered a 0, breaking is an error (new dice roll again) and not stopping before limited time (1 minute default) (distance 5 meter default) (floating magnet, someone throwing the dice far into a forest etc) is also an error
+
+Unique random number generation (memory):
+	Number that has not yet been generated 5 positive, 5 negative
+
+Unitary random number generation (memory):
+	Number that has not yet been generated 5 (ignores positive, negative properties)
+
+
+
+
+sound type randomness (can be translated into numbers):
+
+
+
+decibel loudness 
+
+frequency 
+
+
+
+color type randomness (can be translated into numbers):

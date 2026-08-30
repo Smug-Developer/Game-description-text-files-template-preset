@@ -1,9 +1,43 @@
 Version & Date
 first functioning public version & release date of said version
 v1.0
-Semi public open source code until release (new project)
-Public open source code version 1.0 to 2.0 (new project)
-Private (or (semi) public(?)) Closed source code after 2.0 (new project)
+"Game name"
+Semi public open source code until release (new project, same name, same game)
+Public open source code version 1.0 to 3.0 (new project, same name, same game)
+Private Closed source code after 3.0 (new project, same name, same game)
+
+public artwork branches (also in private and closed source projects) (new branch for each project that only includes art changes) (art, graphical, visual, reskins)
+
+Business/Profile/Project/Publisher(?) (customized privacy, open/closed source options)
+"Profile name" (semi public)
+	"Game name" (semi public)
+		Project "v0" (semi private) (up to version 1.0)
+			Main Branch (semi public, open source code)
+			Art Branch (semi private)
+		Project "v3" (public) (version 1.0 to 3.0)
+			Main Branch (public, open source code)
+			Art Branch (public)
+		Project "main" (private) (version 4.0+)
+			Main Branch (private, closed source code)
+			Art Branch (semi public)
+	"Game name" (private) (connected to and combined automated)
+		Project "storage" (private)
+			full project storage/copy/backup (private closed source) combined singular Project "v0", "v3", "main"
+
+"Profile name" (hidden) (private) (hidden second profile)
+	"Game name" (private) (manual copy/backup/storage combined singular project)
+		Project "storage" (private)
+			full project storage/copy/backup (private closed source)
+
+{
+							      -Branch art
+					-Project "main" ------ Branch main
+					-Project "v3"
+"Profile name" ------ "Game name" ------ Project "v0"
+		 ---- "Game name" ------ Project "automated storage"
+
+"Profile name" ------ "Game name" ------ Project "manual storage"
+}
 
 most recent update version & release date
 

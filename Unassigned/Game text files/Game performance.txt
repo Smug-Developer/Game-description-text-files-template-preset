@@ -1,0 +1,61 @@
+Performance for lower end devices (or less optimized for gaming or older versions)
+
+	Performance modes:
+Rendering visuals:
+4D(?)
+Full 3D mode (Low poly mode) (Least performant, most visually detailed)
+Semi 3D mode (3D and 2D mixed) (3D with an affinity for 2D) Visuals that do not need to be 3D (Recommended) (Performant balance, visually balanced) <Main focus>
+Semi 2D mode (2.5D) (2D with an affinity for 3D) (2D and 3D mixed)
+Full 2D mode (Continue calculations however hide and do not render 3D visuals) (Most performant, visually least detailed)
+1D (Text/Audio mode (?))
+
+No rendering visuals:
+Text only Mode (Most performant, no visual details)
+Audio only Mode (Most performant, no visual details) (Narrator) (Generate audio using custom voices, default selection)
+
+Shader performance ()
+Art performance (textures, normals, size, image import engine settings etc)
+3D model performance (polygon/triangle amount, topology)
+Code performance
+Data reading (importing) / baking
+Readability /  Documentation
+
+Programming/scripting performance
+Code performance
+Data reading (importing) / baking
+Readability /  Documentation
+
+	Download size/data reduction:
+largest data sizes come from art (models, images), sounds, videos
+Models provided at installation, or models downloading during game running
+2D/3D models/art/audio/modifications full/partial/required/most used/on demand/pattern/recommended download
+Models provided by official/unofficial/modifications storage
+
+only install/download/store qualities that are required through modifications (higher end hardware higher quality, lower end hardware lower quality)
+only install/download/store languages that are required through modifications (English for English players, race/species language for everyone)
+only install/download/store sounds that are required based on language and quality (low quality settings, English language)
+
+Optional storage types:
+pre-download base game (all art and models, sounds, videos required for calculations) (lowest quality)
+priority caching/storage based on usage (prepare for usage)
+cacheless storage (on demand download)
+	(download and dispose on usage)
+	(online connection is required, re-download everytime something is used, lots of downloads)
+	(low storage)
+
+temporary cached storage (ingame on demand download)
+	(online connection is required, lots of downloads during gameplay, caching)
+	(longer download times during the game, re-download everytime on game/computer start)
+
+smart cached storage (mix of pre-download and ingame download based on patterns and predictions, on request) (default)
+	(pre-download art that the player sees alot, on demand downloading sounds that are heard once (on getting close(?)))
+	(online connection is required, caching)
+	(smaller data storage needed, small pre-download, small downloads during gameplay, less unused data stored)
+
+permanent cached storage (pre download) (recommended)
+	(large data storage needed, large pre-download, unused data stored)
+	(allows for offline mode, no downloads during gameplay)
+
+2D/4P (2 number position / coordinate, within 4 points space)(?)
+3D/8P (3 number position / coordinate, within 8 points space)(?)
+4D/8P (4 number position / coordinate, within 24 points space)(?)

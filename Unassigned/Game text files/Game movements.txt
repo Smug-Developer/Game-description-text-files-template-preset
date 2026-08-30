@@ -1,0 +1,8 @@
+1st person (combat) take over playable unit/commander/lord(?)
+3rd person
+
+Follow selected (Battalion, Unit) view on availability
+
+Birds eye view (diagonal, to straight zoom to map)
+
+

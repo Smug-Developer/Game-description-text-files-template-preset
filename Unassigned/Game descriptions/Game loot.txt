@@ -1,0 +1,60 @@
+Items acquirable in dungeons, combat crafting etc
+
+	Book types:
+Tomes: lore or history
+Simple Books: playful, learning information or fantasy
+Grimoires: usually containing spells and crafting recipes
+Scrolls: usually containing spells, important information
+Parchment/Pages/Papers: usually drafts and scribbles sometimes ripped out of books
+Encyclopedia: usually containing documented information on creatures, fauna etc (Habitat, behavior, gender, images, life cycle, how to take it)
+Inscriptions/engravings/carvings: usually carved into material (stone) for durability, markings, spells, riddles, locks, mysteries, graves
+
+Inspect option (Combine with "blank" pages invisible ink only visible use with uv light and or specific spells)
+
+Item namings: see game namings
+
+Distribution (based on Nation/Kingdom/Empire, custom optional):
+Luck
+Random
+Voting (Participated)
+Participation (Damage, healing done etc)
+Speed (first one gets it)
+Deception
+
+Identifying:
+
+Sharing:
+
+Trading:
+
+Selling:
+	Full price, sale price, displayed price, item value range, profitable price
+	The more is known about an item the more accurate the price
+	Created in "Location"
+	Created by "Being"
+	Known materials (Material ratings, durability, weight, hardness)
+	Lore (Fabricated lore) (what happened to the item (royalty or famous, why was it created)
+	Properties (Magical)
+	Condition rating
+	Beauty rating
+	Packaged package rating
+	Demand
+	Personal bias (the seller dis/likes the item)
+
+Storing:
+
+Dropping:
+
+Gifting:
+
+Quests/Bountys:
+
+Stealing:
+
+Hiding:
+
+Crafting:
+
+Destroying:
+
+Magically altering: 

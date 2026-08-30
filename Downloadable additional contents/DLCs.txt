@@ -1,6 +1,35 @@
-Artworks
-Musics 
-digital books
-podcasts
-programming digital files
-performance digital files
+All dlcs are digital one time purchases (also available as bundles)
+
+Entertainment
+	Artworks
+	Musics 
+	Digital books
+	Narrations / Podcasts / Stories
+Guides
+	Code
+		Programming digital files
+		Programming performance digital files
+		Shader programming digital files
+	Visual
+		Drawing digital files
+		Modeling digital files
+		Concept art digital files
+		Particle effects
+	Audial
+		Sound effects
+		Music styles
+	Structuring/Sorting/Assigning
+		Project folders & files structuring
+		Project folders & files sorting
+		Project folders & files categorizing
+	Safekeeping / storage / copies / backups
+		Datacenters / storage
+		Project Backups
+	Miscellaneous
+		Versioning
+		Licensing
+		Pricing
+		Marketing
+		Game/project descriptions digital files
+		Creation of languages digital files
+	etc

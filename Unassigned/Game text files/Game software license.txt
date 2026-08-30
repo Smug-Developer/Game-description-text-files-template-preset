@@ -1,0 +1,44 @@
+Semi public open source code until release (new project, same name)
+Public open source code version 1.0 to 3.0 (new project, same name) (open source code license)
+Private Closed source code after 3.0 (new project, same name) (closed source code license) 
+
+public artwork branches (also in private and closed source projects) (new branch for each project/version that only includes art changes) (art, graphical, visual, reskins, models)
+
+Business/Profile/Project/Publisher(?)
+	Project (semi private) (up to version 1.0)
+		Main Branch (semi public, open source code)
+		Art Branch (semi private)
+	Project (public) (version 1.0 to 3.0)
+		Main Branch (public, open source code) (open source code license)
+		Art Branch (public)
+	Project (private) (version 4.0+)
+		Main Branch (private, closed source code) (closed source code license)
+		Art Branch (semi public)
+
+Game Price 40€~ (in all currencies same number not converted)
+Dlc each 10€~
+Subscriptions (monthly) 2€~ (Visual skins, lootbox acquirables, artwork, learning material)
+Unofficial acquirings of the game allowed
+	On unofficial detection harmless warning confirmation screen in menu allowed however to be careful (ask to download official)
+
+(modifications not required on unavailability)
+Modifications created by community equal treatment for official:
+Modifications (Reviewed, Approved & Required) 0€~
+Modifications (Reviewed, Approved & Recommended) 0€~
+Modifications (Reviewed, Approved) 0€~
+Modifications (Reviewed, Denied (official statement: reason + summary + recommended changes)) 0€~
+Modifications (not reviewed, Warning caution advised) 0€~
+
+Official Modifications assign tags/notes:
+	Reviewed (Balancing, Cheat)
+	Approved (Malware, Copyright)
+	Recommended (Balanced & up to standards or within acceptable parameters)
+	Required (Optional: Automaticly installed & Enabled)
+
+Denied:
+	Cheat/Unbalanced
+	Malware/Copyright(?)
+	Performance
+
+Show official over community on availability
+Community reviewed & approved (rating between 0 and 10 (5star) (Thumbs up/thumbs down, positive/negative))
