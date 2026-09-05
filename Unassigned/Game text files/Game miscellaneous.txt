@@ -3,3 +3,6 @@ Markers
 Emotes/emote wheel circle big choices, small choices
 Voice lines
 drawing (?)(Optional show/hide)
+
+loading screen art, image/animation/video, hint/tip/knowledge/tutorial
+multiplayer (waiting screen, others still loading), (same as loading screen(?)), optional dungeon(?)

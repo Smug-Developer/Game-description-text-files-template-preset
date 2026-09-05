@@ -21,3 +21,5 @@ placement
 
 
 dungeon entrances, hiding areas(?)
+
+salt water, fresh water, ground water, rain water

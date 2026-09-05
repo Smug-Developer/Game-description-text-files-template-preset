@@ -1,9 +1,25 @@
 battles/combat
+(multi turn battles(?))
 
-type
-	tiles
+after combat summary (known):
+	(enemy, friendly, allied)
+	Damage received (flat)
+	Damage absorbed
+	Damage dealt (flat)
+	Kills
+	Survived
+	Fled
+	incapacitations
+	buffs (damage, healing, absorbtion)
+	Healing received (flat)
+	Healing prevented (flat)
+	Healing dealt (flat)
+
+type:
+	free movement / tiled optional(?)
 	turn based
 	real time
+	multiple teams
 
 real time:
 	formations predefined, custom (saved presets), free mode, solo units
@@ -23,6 +39,18 @@ tactics (limited ranged):
 	random
 	at will
 	move path (custom path)
+
+appliance types:
+	hybrids/mix
+	melee
+	poke
+	ranged
+	proxy
+	consumable
+	self infliction
+	attrition (resources(?) navigational/manoeuvre/movement)
+	information/illusion/fabrication(?)
+	
 
 weapon types:
 	melee on close encounter (default)
@@ -105,14 +133,20 @@ Unit predictions based on knowledge(?) and skill (accuracy) (in combat knowledge
 leader(s) advisories recommendations / advises indicators
 
 Battle resolve (show estimations guessing/calculations, leader(s)):
+Active fights:
 	Manual
-	Automatic
+	Automatic (computer controlled units) (automatic background mode, resolve battle without watching)
 	Semi automatic (take over)
+	Reinforcements
+	Ambush
+	Intercept
+fightless option:
+	Predictive resolve
 	Ignore
 	Terms (agreement, trade)
 	Intimidate
+	Follow/Stalk
 	Retreat
-	Reinforcements
 
 co-op:
 assign specific battalions/units to co-op partner (default recommended (customizable) preset) (optional: manual, semi-manual(default), auto)

@@ -23,8 +23,20 @@ modification syncing
 
 
 (quick sort, connection status efficiency) (custom multi sort)
-(quick filter, region, passworded, status, current slots)
+(quick filter, region, passworded, status, current slots, game version)
 lobby status, lobby type, lobby name, host display name, current/maximum slots, spectators, lock/passworded, map/location(?), connection status efficiency, host region, network type, modifications
 
 Refresh (cooldown)
 host, join, join with code, lobby info (more specific details)
+
+
+(as modules(?))
+Controlled by (Label/Indicator):
+	Official (provided):
+		Computer (code and algorithms)
+		Human(oid) (UI/UX/HUD for human visual and simplicity of interacting)
+		Artificial intelligence (modules(?))
+	Unofficial (not provided):
+		Script (code accessing and playing from outside) (often considered as "cheat", can send keyboard/mouse or code commands/signals)
+		Bot (Robot taking control and playing)
+		Other

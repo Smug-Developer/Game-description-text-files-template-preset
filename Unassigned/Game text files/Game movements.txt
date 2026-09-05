@@ -5,4 +5,4 @@ Follow selected (Battalion, Unit) view on availability
 
 Birds eye view (diagonal, to straight zoom to map)
 
-
+Tactical view (top down)

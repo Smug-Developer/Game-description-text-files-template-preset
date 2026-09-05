@@ -1,4 +1,4 @@
-Offline profile
+Offline profile (data per version)
 Offline mode (access last known online data)
 Manual profile creation in game or browser
 Allow game launcher to create (generate) a profile

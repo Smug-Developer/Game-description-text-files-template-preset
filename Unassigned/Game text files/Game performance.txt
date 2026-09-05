@@ -7,7 +7,7 @@ Full 3D mode (Low poly mode) (Least performant, most visually detailed)
 Semi 3D mode (3D and 2D mixed) (3D with an affinity for 2D) Visuals that do not need to be 3D (Recommended) (Performant balance, visually balanced) <Main focus>
 Semi 2D mode (2.5D) (2D with an affinity for 3D) (2D and 3D mixed)
 Full 2D mode (Continue calculations however hide and do not render 3D visuals) (Most performant, visually least detailed)
-1D (Text/Audio mode (?))
+1D (Text (Ascii)/Audio mode (?))
 
 No rendering visuals:
 Text only Mode (Most performant, no visual details)
