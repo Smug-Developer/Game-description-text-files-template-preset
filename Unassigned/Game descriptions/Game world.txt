@@ -1,6 +1,6 @@
 overworld tiles(?)
 
-free form type movement (optional tiled, subdivided tiles(?))
+free form type movement (optional tiled, subdivided tiles(?)) (3 Dimensional tiles, height(?))
 
 asymmetrical triangle shapes:
 increasing arch (circular)

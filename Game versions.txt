@@ -60,7 +60,8 @@ release		(color name)
 (reserves)
 structuring	(special property name)
 adjustment	(wavelength vs visible spectrum (overlaps))
-uncategorized	(Energy photons)
+unassigned	(Energy photons)
+
 version 1.(0.)(0.)(0.)(0.)0.0.0
 
  0.0.0.0 colorless transparent

@@ -1,8 +1,13 @@
-Optimal / at moment of selection
-Custom / Recommended / auto adjusted
-Default selected / preset
-Fallback / Standard
-Minimal requirements
+Optimal / at moment of selection (best quality settings, uncapped (144+) frames per second)
+Custom / Recommended / auto adjusted (ultra 144 frames per second)
+Default selected / preset (high 120 frames per second)
+Fallback / Standard (medium, 60 frame per second)
+Minimal requirements (low, 30 frames per second)
+
+benchmark to determine optimal settings (restrict (optional(?)) some multiplayer modes on not up to standard settings (too long loading times))
+
+3D default
+optional 2D / 3D options on availability
 
 Recommended official modification (Nudity/sexual, Violence blood etc)
 
@@ -15,3 +20,6 @@ sliders & number input over menu (assign name to number)
 preview of differences before / after (current selected/changed) (small scene with few objects and characters that are affected)
 
 privacy, streamer (recording) mode
+
+newest version recommended & default
+optional start in older version

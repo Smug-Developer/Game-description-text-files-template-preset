@@ -25,7 +25,7 @@ Rotation:
 	maps
 
 Modes: <Main focus>
-	Standard (Turn based each, Predefined limited size) <Main focus>
+	Standard (campaign) (Turn based each, Predefined limited size) <Main focus>
 	Battle royale
 	Inverted
 	Custom (tournament mode) (persistant units(?) mode multi battles)
