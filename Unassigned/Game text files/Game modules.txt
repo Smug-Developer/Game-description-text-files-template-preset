@@ -1,0 +1,46 @@
+Modules swappable before, during and after gameplay
+Flexible
+
+Module system:
+	Error handling
+	Compatibility handling
+	Official:
+		Required
+		Active installed
+		Recommended
+	Unofficial:
+		Active installed
+		Community submitted modules
+
+Official modules:
+	Default required:
+		Game modes:
+			Offline
+			Online
+			Singleplayer
+			Multiplayer
+		Multiplayer modes:
+			Casual
+			Ranked
+			Custom
+			Rotational
+		Difficulties:
+			Harmless
+			Casual
+			Balanced
+			Advanced
+			Death
+			Custom
+		Controller:
+			Keyboard
+			Mouse
+			Xbox 360
+	Optional:
+		Controllers:
+			PlayStation
+			Virtual reality
+		Character/races:
+		Streaming:
+		Settings:
+			Colorblind
+			Deaf

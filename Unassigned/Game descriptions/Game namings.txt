@@ -11,4 +11,4 @@ Names:
 	Hidden name
 
 words and shortened/abbreviations:
-	displayed translation, known translation, protected/filtered translation, proper translation, direct translation, typed translation, untranslated
+	displayed translation, known translation, protected/filtered translation, direct translation, typed translation, untranslated, context translation, pronounced translation

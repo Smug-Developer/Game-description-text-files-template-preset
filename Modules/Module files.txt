@@ -1,3 +1,4 @@
+Flexibility
 Differentiate between
 Server side modules (affects everyone)
 local/client side modules (affects only the one that installed it)

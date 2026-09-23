@@ -11,7 +11,7 @@ gamma(?)green	(night, dark visibility, lush, natural nature, luck, sweaty, exhau
 	yellow	(ingraining, unusual, destroying, innocent)
 	beige	(smearing)
 	white	(blinding, illumination, bright, glow, soul)
-	grey	(looming, foreboding, smokey, foggy)
+	grey	(dense, hard, looming, foreboding, smokey, foggy)
 	pink	(arousing, playful)
 infra 	red 	(heat, thermal)		>450-2400<
 	orange	
@@ -29,3 +29,33 @@ main color naming: unconnected
 
 
 Assigned number, color name, special property name, wavelength/visible spectrum(overlaps), energy photons
+Overlapping as in red light color also charges however not as strongly as ultra violet and some colors do not charge
+Same as some colors illuminate however white illuminates the strongest
+
+sorted by natural brightness
+colorless being the center
+
+colorless
+black
+purple
+pink
+red
+orange
+brown
+yellow
+green
+blue
+grey
+white
+colorless
+
+other color properties:
+	glossy/shiny/glittery
+	brightness
+	inversion
+	transparency
+	neon/shine
+	vibrancy
+
+color mixing between specified amount of colors, color effectiveness and order(weight/transparency, priority)
+hard minimum of 1 color
