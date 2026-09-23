@@ -1,6 +1,6 @@
-time based on world/area
+time based on world/area/character
 Calculation type (positive or negative)
-direction (counter or count down)
+direction (count up or count down)
 
 Active (& Idle) Amount of time spent:
 	ingame
@@ -13,10 +13,56 @@ Active (& Idle) Amount of time spent:
 	main menu
 	multiplayer tab
 	settings tab
-	
-Gregorian
-	hours:minutes:seconds era (separation ":")
-	days/months/years (separation "/")
-	counter & positive numbers
 
-Displayed time, translated time, perceived translation, untranslated time
+subject to change real time, computer time:
+	24 hour days, 16 hours daytime, 8 hours nighttime
+
+subject to change game time:
+	32 hour days, 24 hours daytime, 8 hours nighttime
+	1 hour game time, 20 minutes real time
+	Rest mode 1 hour, 5 seconds
+	Quick travel 1 hour, 1 minute
+
+Displayed time, perceived time, game time, real time, translated time, untranslated time
+Computer update rate, game update rate, server update rate
+
+Turn timers (Active indicator):
+	Automatic turn end (optional opt out)
+	Automatic idle turn end (optional opt out)
+	Idle vote turn end (optional opt in)
+
+time modes (Active indicator):
+	real time based:
+		real time strategy games
+		grand strategy combat
+	real time turn based:
+		grand strategy
+		combat
+	(grouped) simultaneous turn based:
+		area, distance
+		grand strategy
+		combat
+		events
+		dungeons
+	turn based:
+		area, distance
+		individual character combat
+		roleplaying games
+		dungeons
+	cinematic based:
+		cinematics
+		cutscenes
+		movies
+		shorts
+		videos
+		points of interest
+	pause:
+		timer
+		limit
+		limit refresh
+	idle:
+		slow down game time optional (opt in)
+	rest:
+		speed up game time
+	quick travel:
+		speed up game time

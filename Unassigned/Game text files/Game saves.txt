@@ -1,0 +1,31 @@
+save types:
+	auto
+	checkpoint
+	manual
+
+save type style:
+	persistent through saves
+	bound to saves
+
+save display:
+	date
+	image
+	location
+	auto name (custom name)
+	previous save
+	branched saves (graph)
+	mode
+	storage type
+
+game mode type saves:
+	singleplayer 
+	multiplayer
+
+	online
+	offline
+	local
+
+storage type saves:
+	profile
+	cloud
+	server

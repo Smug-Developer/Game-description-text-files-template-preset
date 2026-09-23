@@ -1,0 +1,26 @@
+Modifications swappable before gameplay
+Robust
+
+Caution: after game has been started
+Modifications often change gameplay resulting in errors, Use modules instead
+
+Modification system:
+	Error handling
+	Compatibility handling
+	Priority loading
+	Official:
+		Required
+		Active installed
+		Tagged
+		Recommended
+	Unofficial:
+		Active installed
+		Reviewed
+		Tagged
+		Community submitted modifications
+
+
+Official modifications:
+	Art style:
+		Shader
+		Models

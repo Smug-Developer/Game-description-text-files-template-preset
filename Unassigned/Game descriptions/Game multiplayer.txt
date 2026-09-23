@@ -19,7 +19,7 @@ One of a kind items loot table transferable through other gameplay sessions thro
 optimal recommended playstyle <main focus>
 mix of co-op and multiplayer (Pve(?) & PvP)
 modification syncing
-
+module syncing
 
 
 (quick sort, connection status efficiency) (custom multi sort)
