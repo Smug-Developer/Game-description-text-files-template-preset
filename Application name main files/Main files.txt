@@ -1,2 +1,13 @@
-Save files
-Game application
+Save files:
+	gameplay
+	settings
+	modifications
+	modules
+	offline
+	shared
+	profile
+	profile syncing
+	cloud
+	cloud syncing
+
+Application files

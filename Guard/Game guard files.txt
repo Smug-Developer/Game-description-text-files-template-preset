@@ -1,0 +1,39 @@
+Game guard (also known as game security and anti cheat (not relationship type))
+	Avoid:
+		Cross application guarding ((privacy) invasive)
+	Optional Methods: 
+		reports
+		tribunal
+		recording (data)
+		data playback (data playback automated position, collision checks)) (chat frequency)
+	Optional Security (game breaking, undesired results, harmful):
+		real money trading (ingame items for real money by unofficial provider)
+		win trading
+		boosting
+		sabotaging
+		inting (losing on purpose)
+		botting
+		auto clicker
+		scripting
+		metagaming
+		unsafe links
+		(age) inappropriate content
+		harmful behavior (threats)
+		spam
+		undesired online community created modifications
+		undesired online community created modules
+		duping (duplicating items)
+	Restrictions:
+		timeouts
+		quarantine
+		ban
+		point system
+		login
+		chat
+		market
+Extras
+	Description
+	Reasonings
+	Unban system
+	Error handling
+	Damage minimization
