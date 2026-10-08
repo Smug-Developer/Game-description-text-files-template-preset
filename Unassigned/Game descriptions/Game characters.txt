@@ -41,6 +41,7 @@ Demonic (Imps, Succubus, devilish)
 Fiends	(Sahuagin, Tieflings)
 Fairies (Pixies, fae, sylphs)
 
+Abyssal
 Cephalia (Eldritch, Octopus, Kraken)
 Aliens (Xenos/Xenomorphs/Xen(?)) (void(?) tyranids(?))
 Slimes
@@ -53,10 +54,11 @@ Mechanoids (Mechas (Power armor), Vehicles) (like (shades of) colors(?)) (usuall
 Puppets (Scarecrow, dolls)
 
 Reanimation "undead" types:
-skeleton (flesh) (robotic) bodies (magical)
+skeleton (magical), zombies (flesh) (magical), (robotic) bodies (repairs), flora and hybrid flora (magical, restoration)
 reanimated flesh bodies "ghouls/zombies" (biological virus nerve signals, brainworms (signalling worms, signalis(?))
 reanimated flesh bodies (brain signals, brain chip(implant/wireless))
-ghosts from recently deceased bodies (ritual (?))
+reanimated flora and hybrid flora ()
+(ghosts/spirits) from recently deceased bodies (ritual (?))
 
 Short & long duration changes:
 metamorphosis
@@ -73,7 +75,7 @@ medium
 large
 gigantic
 massive
-collosal
+colossal
 
 mass/weight categories (unique per species):
 very light
@@ -95,8 +97,39 @@ Hybrids (a mix of 2 or more humanoid/animal hybrid, humanoid/Android etc)
 	Humanoid Bird (Harpies), Kemonos, Android hexapod, Android humanoid, Spriggan, Ent (tree, humanoid)
 	Android mechanoid humanoid (Species T'au(?)) (number, letter, sound, vision, special character(signs), emotion, feeling, color based species(?))
 
+Namings(humanoid human affinity, humanoid flora/fauna affinity):
+	Skaven
+	Ratfolk
+	
+	Khajit
+	Catfolk
 
+	Toadkin
+	Ghleriv
 
+	Druids
+	Spriggans
+	Ents
+	Treeants
+	Trees
+
+Namings (differences):
+	Skaven
+	Ratfolk
+	Ratkin
+	Rats
+	Mice
+	
+	Frogs
+	Toads
+	Toadlings
+	Toadkin
+	Toadfolk
+	Ghleriv
+
+	Khajit
+	Cats
+	Catfolk
 
 
 Sorted and sectioned
@@ -104,6 +137,8 @@ type:	species: subspecies:
 
 Humanoid:
 	Humans:
+		englishmen
+		barbarians
 		vikings
 		romans
 		
@@ -121,12 +156,14 @@ Humanoid:
 		Harpies (hybrid)
 		Valkyries (hybrid)
 	Orcs:
-		goblins
+		Uruk/Urukai
+		Goblins
+		Gremlins
 
 	Giants:
 		Minotaur
 		Ogres
-		Nurgles (?)
+		Nurgles(?)
 		Cyclops
 		Trolls
 		Gargoyle
@@ -135,6 +172,12 @@ Humanoid:
 		Devils
 		Imps
 		Succubus
+	
+	Fish:
+		Mermaids
+		Sirens
+		Kuo toa(?)
+		Murlocs
 
 Variables:
 	Ghosts:
@@ -154,14 +197,17 @@ Variables:
 		Xer'sai
 		Ur'sek
 
-Android:
-	Mechanoids:
-
-	robotics:
-		Tau'(?)
+Android (Artificial intelligence):
+	Operating systems (?):
+		T'au, Tau'
 		Atlas(?)
-
-	automatons: 
+		Androidless oriented:
+			Human
+			Gender
+	Robotics:
+		Mechanoids:
+		Automatons:
+		Bots:
 
 Fauna:
 	Aquatic animals:
@@ -174,6 +220,7 @@ Fauna:
 
 	Land animals:
 		frogs
+		toads
 		Cow
 		snails
 		anteaters
@@ -182,6 +229,28 @@ Fauna:
 
 	Amphibians
 	Birds
+
+	Beasts:
+		Ostrich/Emu
+		Lion
+		Panther
+		Gorillas
+		Apes
+		Bears
+		Wolves
+		Warg
+		Griffin (hybrid)
+		Owlbear (hybrid)
+
+	lizards:
+		Komodo dragons
+		chameleon
+	
+	Dinosaurs:
+	  	velociraptors
+	  	crocodiles
+	  	snakes
+	  	rhinoceros
 
 Flora:
 	Land:
@@ -195,60 +264,6 @@ Flora:
 
 	Aquatic:
 		hydrangea
-
-
-	Insects:
-		worms
-		grasshoppers
-		ants
-		manti'
-		butterflies
-		bees
-		dragonflies
-
-
-	Cephalia:
-		 Eldritch
-		 Octopus
-		 Kraken
-		 Hydras(?)
-
-
-	Dinosaurs:
-	  	velociraptors
-	  	crocodiles
-	  	  snakes
-	  	rhinoceros
-
-	  lizards:
-		Komodo dragons
-		chameleon
-
-	Draconics:
-		wyverns
-	  	dragons
-	  	wyrms
-
-	Mimickin:
-	 	chest
-	 	backpack
-		lantern
-		Pot
-		book
-
-	Vamprirics:
-		
-	Beasts:
-		Ostrich/Emu
-		Lion
-		Panther
-		Gorillas
-		Apes
-		Bears
-		Wolves
-		Warg
-		Griffin (hybrid)
-		Owlbear (hybrid)
 
 Mutants:
 	Genetic:
@@ -269,4 +284,53 @@ Mutants:
 		skaven (hybrid)
 		Sirens/mermaids (hybrid)
 		
-		   
+other:
+	Insects:
+		worms
+		grasshoppers
+		ants
+		manti'
+		butterflies
+		bees
+		dragonflies
+
+	Cephalia:
+		 Eldritch
+		 Octopus
+		 Kraken
+		 Hydras(?)
+
+	Draconics:
+		Wyverns
+	  	Dragons
+	  	Wyrms
+
+	Mimickin:
+	 	Chest
+	 	Backpack
+		Lantern
+		Pot
+		Book
+		(Humanoid) Knight
+		(Android)
+		(Shapes) Sphere
+		Stone/wall
+		Portal
+		Clothing(Robe/Hoodie)
+
+	Vampirics:
+		
+	Elementals:
+		Golems:
+			Stone
+			Wood
+		Animated armor:
+			Glass
+			Steel
+			Iron
+			Stone
+			Clay
+			Wood
+		Slimes
+		Blobs
+		Nymps(?)

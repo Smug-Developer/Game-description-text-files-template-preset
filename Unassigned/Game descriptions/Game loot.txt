@@ -2,7 +2,7 @@ Items acquirable in dungeons, combat crafting etc
 
 	Book types:
 Tomes: lore or history
-Simple Books: playful, learning information or fantasy
+Simple Books: playful, learning information or fantasy, tales
 Grimoires: usually containing spells and crafting recipes
 Scrolls: usually containing spells, important information
 Parchment/Pages/Papers: usually drafts and scribbles sometimes ripped out of books
@@ -17,44 +17,67 @@ Distribution (based on Nation/Kingdom/Empire, custom optional):
 Luck
 Random
 Voting (Participated)
-Participation (Damage, healing done etc)
+Participation (Damage, healing done, (usefulness of) enchantments applied etc)
 Speed (first one gets it)
 Deception
+simple small game
 
-Identifying:
-
+Identifying (memory):
+	type
+	name
+	material
+	creator
+	lore
+	date
+	location
 Sharing:
-
-Trading:
-
+	showing
+	speech (reading)
+	feeling (touching)
+	Trading:
+		simple both accept
+		advanced both accept and confirm
+	Gifting:
+		leave behind
+		simple both accept
+		advanced both accept and confirm
 Selling:
 	Full price, sale price, displayed price, item value range, profitable price
 	The more is known about an item the more accurate the price
-	Created in "Location"
-	Created by "Being"
+	Creation (made, manufactured, acquired, found) location, date, time, creator, process, reason
 	Known materials (Material ratings, durability, weight, hardness)
-	Lore (Fabricated lore) (what happened to the item (royalty or famous, why was it created)
+	Lore (Fabricated lore) (what happened to the item (royalty or famous, creation reason)
 	Properties (Magical)
 	Condition rating
 	Beauty rating
 	Packaged package rating
 	Demand
-	Personal bias (the seller dis/likes the item)
-
+	Personal bias (the seller (dis)likes the item)
 Storing:
-
+	on display (open/closed)
+	storage container
+	loosely
 Dropping:
-
-Gifting:
-
+	throwing
+	placing carefully
+	falling
 Quests/Bountys:
-
+	creating
+	finding
+	acquiring:
+		known places
 Stealing:
-
 Hiding:
-
+	burrowing (deepness)
+	storing (below)
+	location moving
 Crafting:
-
+	mixing
+	multiple creators
 Destroying:
-
-Magically altering: 
+	accidental
+	purposefully
+Magically altering:
+	ritual
+	permanent
+	time based

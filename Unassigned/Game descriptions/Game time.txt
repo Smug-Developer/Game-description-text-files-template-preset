@@ -23,15 +23,34 @@ subject to change game time:
 	Rest mode 1 hour, 5 seconds
 	Quick travel 1 hour, 1 minute
 
-Displayed time, perceived time, game time, real time, translated time, untranslated time
-Computer update rate, game update rate, server update rate
+Tickrate / Update rate:
+	Computer update rate
+	game update rate
+	server update rate
+
+Times:
+	universal
+	realm
+	world
+	planet
+	day/area
+	character (internal clock)
+
+	displayed
+	perceived
+	game time
+	real time
+	translated
+	untranslated
+
+time of creations (mixed, new), time of instancing
 
 Turn timers (Active indicator):
 	Automatic turn end (optional opt out)
 	Automatic idle turn end (optional opt out)
 	Idle vote turn end (optional opt in)
 
-time modes (Active indicator):
+Time modes (Active indicator):
 	real time based:
 		real time strategy games
 		grand strategy combat
@@ -64,5 +83,14 @@ time modes (Active indicator):
 		slow down game time optional (opt in)
 	rest:
 		speed up game time
-	quick travel:
+	quick travel ((tunnel)(tether(linked)) warp):
 		speed up game time
+
+Rest:
+	Sleep:
+		Visions (past, possible futures, illusions, quest guidance)
+		Dreams (likes)
+		Nightmares (dislikes)
+		Clairvoyance
+		Nothing
+		Ability etc point changes

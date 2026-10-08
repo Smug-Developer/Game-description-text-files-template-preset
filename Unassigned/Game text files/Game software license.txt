@@ -1,3 +1,5 @@
+Software license, source code and pricing
+
 Semi public open source code until release (new project, same name)
 Public open source code version 1.0 to 3.0 (new project, same name) (open source code license)
 Private Closed source code after 3.0 (new project, same name) (closed source code license) 
@@ -20,6 +22,8 @@ Dlc each 10€~
 Subscriptions (monthly) 2€~ (Visual skins, lootbox acquirables, artwork, learning material)
 Unofficial acquirings of the game allowed
 	On unofficial detection harmless warning confirmation screen in menu allowed however to be careful (ask to download official)
+
+Modifications similar to Modules
 
 (modifications not required on unavailability)
 Modifications created by community equal treatment for official:

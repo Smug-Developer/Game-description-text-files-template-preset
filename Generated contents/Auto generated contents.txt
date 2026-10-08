@@ -7,3 +7,7 @@ Lexicon branch of knowledge (Lore (Factual & Fabricated lore(s)) (Fandom))
 Tutorials/How to's(?)
 Dictionary vocabulary of languages (and translator (word based, context based, number based etc))
 Contributors (display names only (image of the names(?)))
+
+
+Publish the same version of application/game as Documentation (wiki,map,atlas etc), Encyclopedia etc
+Hold to the same version number

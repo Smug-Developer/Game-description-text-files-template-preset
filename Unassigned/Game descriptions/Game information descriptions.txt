@@ -2,3 +2,5 @@ on hover underlined (special color) words show "tooltip" describing the word
 description is to be retrieved from the generated contents
 
 (Most believed to be accurate) item, lore, character etc information is to be retrieved from (and written to (offline)) generated contents
+
+displayed information, specified between what is allowed and not allowed to be overlayed with other information (fabricated lore)

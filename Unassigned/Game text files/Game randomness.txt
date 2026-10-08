@@ -1,6 +1,6 @@
 types of randomness
 
-
+physics type (dice)
 number type randomness:
 
 Note: assign a number to anything and use the numbers for random number generation can be translated back, for generating sounds or colors etc.
