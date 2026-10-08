@@ -13,8 +13,7 @@ Sort by
 Search
 	Input field
 Filters
-	Price model
-	Platforms (Windows, PlayStation, Web, Android etc)
+	Platforms (Windows, Xbox, PlayStation, Browser, Android etc)
 	Programming languages
 	Software license
 
@@ -25,7 +24,7 @@ personality, difficulty
 player takeover (upon entering / leaving game)
 speech, hearing, smell, feel, sense
 trading, buying, selling, movement, collecting, sorting, questing, exploring, reasoning, targeting, choices, leveling, building, looting, idling, equipping, using, resting, procreate, tasks, creation, destroying, removing, teaming, grouping, playing, actions, predictions
-consciousness, sentience, emotions
+consciousness, sentience, feelings, emotions
 
 prediction distances (optimal, adjustable):
 minimal

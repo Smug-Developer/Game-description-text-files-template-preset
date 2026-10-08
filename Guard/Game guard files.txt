@@ -23,11 +23,17 @@ Game guard (also known as game security and anti cheat (not relationship type))
 		undesired online community created modifications
 		undesired online community created modules
 		duping (duplicating items)
+		undesired cross application interactions
+		glitch / bugs / errors
 	Restrictions:
 		timeouts
-		quarantine
+		quarantine (overlapping(?))
+			oblivious
+			knowing
+			having
+			actively
 		ban
-		point system
+		point system (gameplay impact disturbance, accidents, abusing)
 		login
 		chat
 		market
@@ -35,5 +41,7 @@ Extras
 	Description
 	Reasonings
 	Unban system
+	Identifying
+	Detecting (outside / cross application influence)
 	Error handling
 	Damage minimization

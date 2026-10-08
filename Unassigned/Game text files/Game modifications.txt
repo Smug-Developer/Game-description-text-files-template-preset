@@ -24,3 +24,28 @@ Official modifications:
 	Art style:
 		Shader
 		Models
+
+
+
+Algorithmic (default, multi optional) download (offline, online), sharing (server system), upload (offline, online):
+	(default smart filter "caching"):
+	filter by (filter options, amount):
+		supported version
+		official
+		community
+		reviewed
+		recommended
+	group by (grouping options):
+		tag
+		type
+	sort by (sorting options):
+		reviewed
+		recommended
+		active installed (popularity)
+		supported version
+	hide by (hide options):
+		required
+		denied review
+	display by (amount options):
+		20
+		50

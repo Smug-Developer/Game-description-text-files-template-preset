@@ -84,9 +84,6 @@ version 1.(0.)(0.)(0.)(0.)0.0.0
 17.0.0.0 orange
 18.0.0.0 brown
 
+hold version number aligned with documentation
 
-
-
-
-
-
+Possibly add simple build number of files and build number of compiled build, incremental starting at 0

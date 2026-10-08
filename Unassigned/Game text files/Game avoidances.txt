@@ -23,3 +23,19 @@ ungrouped, unsorted, uncategorized, unassigned, unallowed takeovers, unwanted re
 breaking or large changes, notify and ask (specify allow, deny, default awaiting assignments, with importance and priority rating)
 spamming changes (cooldowns and confirmations)
 performance and compatibility issues (backwards, future and other branches)
+
+
+Warnings:
+	(Recommended) Age requirements (all age types):
+		Minimum 13
+		Maximum 55
+
+age types:
+	Chronological
+	Biological
+	Mental
+	Developmental
+	Functional
+	Social
+	Psychological
+	Visual

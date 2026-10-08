@@ -29,3 +29,5 @@ storage type saves:
 	profile
 	cloud
 	server
+
+options:

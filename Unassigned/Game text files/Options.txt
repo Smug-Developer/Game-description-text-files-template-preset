@@ -9,17 +9,29 @@ benchmark to determine optimal settings (restrict (optional(?)) some multiplayer
 3D default
 optional 2D / 3D options on availability
 
-Recommended official modification (Nudity/sexual, Violence blood etc)
+Recommended official modification and modules (Nudity/sexual, Violence blood etc)
 
 Customizable colors (Companions, Npcs, tagged items (quest/looking for/stolen), Neutral, Enemy, Ally, Pacts, Statistics) (preview)
 Custom & Preset Color blindness
 
-cooldown timers on options/modifications etc prevent spamming
+cooldown timers on options/modifications/modules etc prevent spamming
 
 sliders & number input over menu (assign name to number)
-preview of differences before / after (current selected/changed) (small scene with few objects and characters that are affected)
+preview of differences before / after (current selected/changed) (small scene with few objects and characters that are affected) 2D,3D,4D etc
 
 privacy, streamer (recording) mode
 
 newest version recommended & default
 optional start in older version
+
+options sorted by:
+	Gameplay
+	Graphical
+	Performance
+options grouped by:
+	Gameplay
+	Graphical
+	Performance
+options cooldowns (small)
+options take in effect countdown
+options save files

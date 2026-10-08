@@ -9,14 +9,52 @@ Offline Mode (Single player) (Offline Account code (for sharing data))
 Multiplayer (Required modification) (Assign Lobby code indicator # and Online Account code (for sharing data indicator @)
 	(random not in use numbers and letters length between 1 and alphabet + numbers)
 Modifications (Offline mode, multiplayer, recommended modifications, official/community created, website?) Changes that affect gameplay
+Modules
 Settings (Main sound control 50% default, Presets low medium recommended, before & after comparisons, livestreaming)
 DLC (Artwork, Music, digital books, podcasts, programming performance lessons etc) Changes that do not affect gameplay
 Generated content (Documentation, Statistics, Contributors etc)
 Quit
 
 Bottom right text:
-build number
-game version
-game state (early access, alpha, released)
-Amount of enabled modifications
-Link to website
+	build number
+	game version
+	game state (early access, alpha, released)
+	Amount of enabled modifications
+	Amount of enabled modules
+	Link to website
+
+Offline:
+	Singleplayer:
+		Campaign
+Online:
+	Singleplayer:
+	Multiplayer:
+		Matchmaking:
+			Casual
+			Ranked
+			Custom
+		Campaign:
+Modifications (filter official, community, load order):
+	Installed:
+	Downloaded:
+	Available:
+Modules (filter official, community, load order):
+	Installed:
+		Multiplayer
+	Downloaded:
+	Available:
+Options:
+	Settings / preferences:
+		Menu
+		Gameplay
+		Quality
+		Controls
+DLC:
+	Artwork
+	Music
+	Books
+Generated content:
+	Profile
+	Documentation
+	Contributors
+Quit

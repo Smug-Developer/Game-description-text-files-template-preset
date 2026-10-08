@@ -4,22 +4,29 @@ Anime <Main focus>
 Digital
 Illusion
 Sticky
-Dimensional/4th wall art (4 dimensional breakthroughs, (similar to 3 dimensional portaling))
-Voxel
+Dimensional/4th wall art (4 dimensional breakthroughs, (similar to 3 dimensional portaling(?)))
+Voxel (pixel)
 
 Outlined
 Symmetrical
-Surreal
-fluffy
+Surreal (unsure, feeling of unreal)
+Fluffy
+Fuzzy (fur)
 Nature
-Painting(washed, smeared)
-Pencil/marker
-furry
-Sketch
+Painting (washed, smeared)
+Pencil/marker/pen
+Sketch (rough, less colored)
+
+Vintage
+Retro
+
+Layered / Parallax
+2D,2.5D,3D,3.5D,4D etc
 
 not included / avoid:
 	--> "Realistic art style name"???
 Toon
 Inflatable
-
+Minimalistic
+Abstract
 

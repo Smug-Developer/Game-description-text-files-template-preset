@@ -1,76 +1,115 @@
 use node/object/class/skill/ability/item/perks/feats/traits tree
 
 "Rarities": {
-	"Description": "Chance of acquiring or finding item, from a set of multiple items, Color applies to the name and or symbol, rarity can be uncommon +1 luck on any found item skill spell and or additional enchantment",
+	"Description": "Chance of acquiring item, from a set of multiple items, Color applies to the name and or symbol, rarity can be uncommon +1 attractiveness on any found item skill spell and or additional enchantment",
 	"Note": "coordinate system for each rarity and graph?"
+	"Defaults":{
+		"Note": "Randomness available amount generation, difference between, number between"
+		"Availability": {
+			Minimum: {
+				Hard: 1000000,
+				Soft: 1000000,
+			},
+			Maximum: {
+				Soft: 1000000,
+				Hard: 1000000,
+			},
+			"Difference":{
+				Soft: 0,
+				Hard: 0,
+			}
+		}
+	},
             "Basic": {
-                "Maximum": 1000000,
+		"Availability": {
+			Minimum: {
+				Hard:  999999,
+				Soft: 1000000,
+			},
+			Maximum: {
+				Soft:  999999,
+				Hard: 1000000,
+			}
+		},
                 "Chance": "105%",
-                "Color": "White"
+                "Color": "White",
+		"Effect": "Nothing"
             },
             "Standard": {
                 "Maximum": 100000,
                 "Chance": "50%",
-                "Color": "Brown"
+                "Color": "Brown",
+		"Effect": "Nothing"
             },
             "Common": {
                 "Maximum": 10000,
                 "Chance": "25%",
-                "Color": "Silver"
+                "Color": "Silver",
+		"Effect": "Nothing"
             }, 
             "Uncommon": {
                 "Maximum": 1000,
                 "Chance": "10%",
-                "Color": "Green"
+                "Color": "Green",
+		"Effect": "Nothing"
             },
             "Epic": {
                 "Maximum": 100,
                 "Chance": "5%",
-                "Color": "Teal"
+                "Color": "Teal",
+		"Effect": "Nothing"
             },
             "Rare": {
                 "Maximum": 10,
                 "Chance": "1%",
-                "Color": "Pink"
+                "Color": "Pink",
+		"Effect": "Nothing"
             },
             "Exotic": {
                 "Maximum": 5,
                 "Chance": ".5%",
-                "Color": "Orange"
+                "Color": "Orange",
+		"Effect": "Nothing"
             },
             "Legendary": {
                 "Maximum": 8,
                 "Chance": ".25%",
-                "Color": "Gold"
+                "Color": "Gold",
+		"Effect": "Nothing"
             },
             "Mythical": {
                 "Maximum": 4,
                 "Chance": ".5%",
-                "Color": "Red"
+                "Color": "Red",
+		"Effect": "Holographic"
             },
             "Unique": {
-		"Description": "Distinct Uniquely, one of a kind (blue flame sword, black flame sword)",
+		"Description": "Distinct Uniquely, one of a kind (blue flame iron sword, black flame iron sword)",
                 "Maximum": 2,
                 "Chance": ".1%",
-                "Color": "Black"
+                "Color": "Beige",
+		"Effect": "Lenticular & Shine"
             },
             "Unitary": {
 		"Description": "Singular one of a kind, apart from unisons invert (elemental sword)"
                 "Maximum": 1,
                 "Chance": ".1%",
-                "Color": "Black"
+                "Color": "Black",
+		"Effect": "Lenticular & Holographic"
             },
             "Divine": {
                 "Description": "Not found, given at a defined moment",
                 "Maximum": 2,
                 "Chance": "100%",
-                "Color": "Violet"
+                "Color": "Purple",
+		"Effect": "Lenticular & Shine"
             },
             "Attuned": {
                 "Description": "Stays with you, unable or difficult to part with like a bond or a curse",
                 "Maximum": 2,
                 "Chance": "100%",
-                "Color": "Beige"
+                "Color": "Black",
+		"Effect": "Shine"
             },
             "Availability":{
                 "Available": "",
@@ -81,7 +120,45 @@ use node/object/class/skill/ability/item/perks/feats/traits tree
 		"Unconditional": "",
 		"Known": "",
 		"Unknown": "",
-		"Clue": ""
+		"Hint/Clue": ""
             }
 }
-(special properties glowing sparkling shine etc(?))
+
+Rarity:
+	0  No rarity (Nothing, default, (anomaly) error, should always have rarity assigned)
+	1  Basic    (Pale)
+	2  Standard (Pale)
+	3  Common   (Pale)
+	4  Uncommon (Pale)
+	5  Epic     (Vibrant)
+	6  Rare     (Vibrant)
+	7  Exotic   (Vibrant)
+	8  Legendary(Vibrant)
+	9  Mythical (Vibrant & Holographic)
+	10 Unique   (Vibrant & Lenticular & Shine)
+	11 Unitary  (Vibrant & Lenticular & Holographic)
+	12 Divine   (Vibrant & Lenticular & Shine)
+	13 Attuned  (Vibrant & Shine & Color changing (mood(?)))
+
+Special properties:
+	Nothing
+	Shine (10 & 12 & 13)
+	Lenticular (10 & 11 & 12) (gif/multiple images/varying states) 
+	Holographic (9 & 11)
+	Glitter
+	Vibrant (Rarity 5+)
+	Pale (Rarity up to 5, 4-, pale colors)
+
+Tier classifications (Rarity & Current state condition) (similar to 5 star review systems):
+	S S
+	A A
+	B B
+	C C
+	X D
+	  E
+	  F
+	  X
+	  Unassigned
+S to F functioning state
+X broken
+Unassigned No rarity, state or unknown
