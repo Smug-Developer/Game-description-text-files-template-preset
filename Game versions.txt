@@ -58,9 +58,9 @@ colors not shades of colors
 
 release		(color name)
 (reserves)
-structuring	(special property name)
-adjustment	(wavelength vs visible spectrum (overlaps))
-unassigned	(Energy photons)
+structuring	(special property name, wavelength vs visible spectrum (overlaps))
+adjustment	(thermal absorption, temperature)
+unassigned	(energy photons)
 
 version 1.(0.)(0.)(0.)(0.)0.0.0
 

@@ -1,20 +1,82 @@
 Divine(s) assigned/chosen/acquired(?):
-Creator(s) of special items, abilities, spells, species, languages, etc
+Creator(s) of special items, abilities, spells, species, languages...
 
 Deity(ies):
-Creator(s) of special buildings, objects, decorations, travel between worlds, time, seasons, cycles(day/night), deaths, guidance (quests, faith/religious trades/offerings) etc
+Creator(s) of special buildings, objects, decorations, travel between worlds, time, seasons, cycles(day/night), deaths, guidance (quests, faith/religious trades/offerings)...
 
 Soul(s):
-Creator(s) of the realm, dimensions, universe, worlds, planets, continents, areas, personalities, characteristics and characters etc
+Creator(s) of the realm, dimensions, universe, worlds, planets, continents, areas, (temporary, similar) personalities, characteristics and characters...
+
+Souls
+proxy souls (Temporary, similar)
+Heart
 
 also referred to as God(s):
-Deity
-Divine
-Souls
+	Nothing: undefined
+	Colossus/Ancients
+	Overseers
+	Gods/Goddesses (gendered (male oriented variant)) (species(?)) 
+	Demigods (lesser)
+	Deity
+	Divine
+	Souls
+	Titans
 
-Gods/Goddesses
-Demigods (lesser)
-Overseers
+god of materials
+demigod of wood
+titan (tiny god) of oaken wood
+
+translations of different offsets of algorithms and mathematical equations (language(?))
+	sets of mathematical rules differentiating 
+		rule set not containing a certain number like 0
+		after 1 comes 3 instead of 2...
+		mathematical nothing defined as 0, mathematical nothing defined as undefined
+		calculational negative 0, not including calculational negative 0
+
+computer controlled (cpu), artificial intelligence (ai):
+	evolved (self learning, self evolving):
+		unlimited within a limited setting:
+			self (learning) evolving
+		limited:
+			self learning
+			species imitating (humans, gods...)
+			creations
+			simulations
+	complex:
+		(simulated) heart(s)
+		(simulated) soul(s)
+		(simulated) sense(s)
+	advanced:
+		(simulated) feeling(s)
+		(simulated) personality(s)
+		(simulated) characteristic(s)
+	basic:
+		algorithm(s)
+
+scripts, bots:
+	complex:
+		massive
+	advanced:
+		large
+		medium
+	basic:
+		small
+		micro
+
+color (Colossus)
+	vision (Gods)
+		light (Demigods)
+			extras (Titans)
+
+scripts (Titans)
+	bots (Demigods)
+		computer controlled (cpu) (Gods)
+			artificial intelligence (ai) (Collossus)
+
+Microcomputers (screen, controllers) (Titans)
+	Computers (Gods)
+		Datastreams (Collossus)
+			Attachments (camera, wifi), applications (Demigods)
 
 sometimes associated
 faith, beliefs/believes, religion and culturous type(s):
@@ -29,4 +91,4 @@ faith, beliefs/believes, religion and culturous type(s):
 	prayers (taking time to communicate)
 	chants (hymns, songs, rythm)
 
-worship and beliefs/believes giving additional and or special (supernatural) powers to whatever is being targeted
+worship and beliefs/believes increasing and or giving additional and or special (unusual, otherwordly, supernatural) powers to whatever is being targeted (limited)

@@ -15,3 +15,26 @@ Co-op
 local
 Offline
 Application
+
+
+(use file board system)
+Modification and module tags:
+	modification (development) tools
+	modification
+	module
+
+	required
+	recommended
+
+	official
+	community
+
+	reviewed
+	approved
+	denied
+
+	gameplay
+	graphical
+	controls
+	development/cheats/unbalanced
+	settings

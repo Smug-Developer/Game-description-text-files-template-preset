@@ -5,3 +5,11 @@ Title, Name, Description,
 Online book
 Paperback
 Hard cover <Main focus>
+
+Book (polygon) shape:
+	Rectangular
+	Triangular
+	Circular
+	Hexagonial
+	Concave
+	Convex

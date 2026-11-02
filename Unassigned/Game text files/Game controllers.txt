@@ -1,8 +1,53 @@
 types of controllers recommended usage
 
 Options:
-keyboard and mouse
-wired controller (360 stick type controller, xbox 360 controller)
-audio input (Official recommended module)
-touch input (Official recommended module)
-VR controller (module)
+	Keyboard & mouse (built in) (24 buttons/keys not including combinations (*3+))
+	wired controller (360 stick type controller, xbox 360 controller) (built in)
+	touch input (Official recommended module)
+	VR controller (Official module)
+	audio input (module or modification)
+
+Specifics:
+	Keyboard (left hand keyboard) (built in) (hash/tag based(?)):
+		Main keys (character combat movement(?)) keys:
+			1: W:
+			2: A:
+			3: S:
+			4: D:
+			5: Space:
+			6: Shift:
+			7: Control:
+			8: Alternative:
+		Additional main keys:
+			9: Q:
+			10: E:
+			11: R:
+			12: F:
+			13: G:
+		Extra main keys:
+			14: 1:
+			15: 2:
+			16: 3:
+			17: 4:
+			18: 5:
+	Mouse (right hand mouse):
+		Action:
+			Right (right finger) click
+			Shift right click (combination)
+		Selection:
+			Left (left finger) click
+			Shift left click (combination)
+			Control left click (combination)
+		Extras:
+			Left side (thumb) button 1
+			Left side (thumb) button 2
+		Scroll:
+			Wheel
+			Button
+
+Game input:
+	World input:
+	Combat input:
+Overlay input:
+	Inventory input:
+	Menu input:

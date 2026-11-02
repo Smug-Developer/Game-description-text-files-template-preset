@@ -44,7 +44,10 @@ Modules (filter official, community, load order):
 	Downloaded:
 	Available:
 Options:
-	Settings / preferences:
+	Game settings:
+	Game preferences
+	Personal settings
+	Personal preferences
 		Menu
 		Gameplay
 		Quality

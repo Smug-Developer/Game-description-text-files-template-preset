@@ -125,7 +125,7 @@ Namings (differences):
 	Toadlings
 	Toadkin
 	Toadfolk
-	Ghleriv
+	Ghleriv, Ghleri'
 
 	Khajit
 	Cats
@@ -189,7 +189,13 @@ Variables:
 
 	Undead:
 		ghouls
- 		skeletons
+ 		skeletons (also replica):
+			Physically (held together)
+			Organical
+			Biological
+			Magical
+			Telepathically
+			Artificially (wired, procedural, technologic)
 		spectre
 		spirit
 
@@ -214,24 +220,29 @@ Fauna:
 		urchin
 	 	Jellyfishes
 		Seals
-		turtles
 	 	mantas
 	 	lobsters
 
 	Land animals:
-		frogs
-		toads
 		Cow
-		snails
-		anteaters
-		peacock
-		foxes
+		Snails
+		Anteaters
+		Peacock
+		Foxes
 
-	Amphibians
-	Birds
+	Amphibians (Land & Aquatic):
+		Frogs
+		Toads
+		Turtles(?)
 
-	Beasts:
+	Birds:
 		Ostrich/Emu
+		Owl
+		Kiwi
+		Eagle
+		Penguin
+
+	Mammals(Beasts(?)):
 		Lion
 		Panther
 		Gorillas
@@ -242,15 +253,18 @@ Fauna:
 		Griffin (hybrid)
 		Owlbear (hybrid)
 
-	lizards:
+	Reptiles:
 		Komodo dragons
-		chameleon
+		Chameleon
+		Turtles
+		Crocodiles
+		Skink
 	
 	Dinosaurs:
-	  	velociraptors
-	  	crocodiles
-	  	snakes
-	  	rhinoceros
+	  	Velociraptors
+	  	Snakes
+	  	Rhinoceros
+		Elephants
 
 Flora:
 	Land:
@@ -264,6 +278,8 @@ Flora:
 
 	Aquatic:
 		hydrangea
+		algea
+		kelp
 
 Mutants:
 	Genetic:
@@ -334,3 +350,71 @@ other:
 		Slimes
 		Blobs
 		Nymps(?)
+
+
+(File board) Images & Connected files on character board concept tagging system (approval)
+	Image file (multiple):
+		Name:
+	Tag Text File (singular):
+		Name:
+		Species:
+			Subspecies:
+		Race:
+		Language:
+			Dialect:
+		Characteristics:
+		Personality:
+		Behaviour:
+		Life cycle:
+		Reproduction:
+		Genders:
+		Sexuality:
+		Habitat:
+		Diet:
+		Nutrition:
+		Connected image names:
+	Descriptions Text File (singular):
+		Name:
+		Language:
+		Characteristics:
+		Personality:
+		Behaviour:
+		Life cycle:
+		Reproduction:
+		Genders:
+		Sexuality:
+		Habitat:
+		Diet:
+		Nutrition:
+
+File board Language files(?)
+
+Display language (add additional languages):
+	English (EN)
+		Dialect:
+			(EU)
+			(US)
+			(UK)
+	中国人 (CH)
+	Deutsch (DE)
+	Dwarven (DW)
+	Elvish (EL)
+
+Display by (Amount):
+	20
+	50
+	Preview file to Full file
+filter by input:
+	available tags
+group by input:
+	available tags
+Sort by input:
+	available tags
+	random
+	views/downloads:
+		total
+		active:
+			monthly
+			weekly
+hide by input:
+	available tags

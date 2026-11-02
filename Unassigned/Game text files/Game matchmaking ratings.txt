@@ -1,4 +1,5 @@
-Modifications disabled & enabled:
+game modes
+Modifications, modules disabled & enabled:
 Friendly fire (Default on)
 
 (offline/online singleplayer, offline/online co-op, offline/online multiplayer)
@@ -25,10 +26,10 @@ Rotation:
 	maps
 
 Modes: <Main focus>
-	Standard (campaign) (Turn based each, Predefined limited size) <Main focus>
+	Standard (campaign) (Turn based each, Predefined limited size)
 	Battle royale
 	Inverted
-	Custom (tournament mode) (persistant units(?) mode multi battles)
+	Custom (tournament mode) (persistant units(?) mode multi battles) <Main focus>
 	Spectator mode (connections(friends) / on going / chosen ranking / replays)
 	Trading card game (Can also be played in game during others turns or standalone application)
 	Standard Grouped (All players do their moves during the same turns)
@@ -39,7 +40,7 @@ Modes: <Main focus>
 	Inverted Grouped Battle royale (Predefined unlimited size, join/leave system)
 	
 	Team battles (8v8 each controlling (4?) battalions)
-	Custom mode (practice mode) (modification syncing)
+	Custom mode (practice mode) (modification, module syncing)
 
 Default (team) battles:
 	Casual: (map rotation) (balanced difficulty) (8v8)
@@ -52,19 +53,22 @@ Queue system:
 turn timer:
 End turn button indicator highlight on turn almost over (auto) (short, medium, none)
 
+statistics of the main game (server), affecting other games
+
 Standalone(?) modes (usually multiplayer):
+	Chat application(s) (Text, Voice, Streaming):
+		Stand alone connected
+		Ingame dedicated connected
+		Hub dedicated connected
 	Trading card game
-	Rpgs (2D, 3D, Dungeon crawlers, Horde(Endless), roguelikes)
-	Puzzles
-	Sidescrollers
-	Visual novels
-	Mmorpg
-	Boardgame
-	Idlegame (2D, 3D)
-	Arcadegames
+	Roleplaying games(rpgs) (2D, 3D, Dungeon crawlers, Horde(Limited, Endless), roguelikes)
 	VRgames (multiplayer)
-	Tabletop game
+	Mmorpg
+	Puzzles
+	Tabletop games/Boardgames
+	Arcadegames
 	Moba (8vs8)
-	Dedicated Text only chat
-	Dedicated Voice & Text only chat
-	Dedicated Connected Chat application(s) (Text, Voice, Streaming)
+	Visual novels
+	Idlegame (2D, 3D)
+	Sidescrollers
+	

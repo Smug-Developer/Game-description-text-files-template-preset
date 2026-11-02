@@ -1,10 +1,15 @@
 Template & preset
 Keep folder structure as is
-Create new branch for release versions
-Create new branch for Open source version
-Create new branch public version
+Create new branch for release version
+Create new branch for open source version
+Create new branch for public version
+
+Preferably Human readable notes and code, possibly obfuscated, encrypted or AI readable compiled project for publishing
+
+
+original upload GitHub
 
 
 
-
-original upload github
+Add vigorous testing and error handling methods for unknown failures or undesired results (unjust guard quarantine point assignments)
+Error/failures (bug, glitch, crash) systems, prioritization, tracking, tagging, fixing, updating
