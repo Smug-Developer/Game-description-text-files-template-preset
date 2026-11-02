@@ -1,21 +1,28 @@
 main effect of special color properties (overlaps)
 
 	colorless (see through, transparent/translucent, shine, blurry)
-	black	(ominous, emotional, sense, feeling, vibe)
-	purple	(reflection, mirroring, deceptive, toxic)
-ultra 	violet 	(solar, fluorescence, luminescent, glow in the dark, charging, invisible to visible, revealing)	>380-450<
-	blue	(cold, distant, repellent, soul)
-	teal	(light, less weighty)
+	black	(particle see through(? mud water), ominous, emotional, sense, feeling, vibe)
+ultra 	violet, purple 	(fluorescence, luminescent, glow in the dark, solar, charging, revealing)	>380-450<
+	blue	(distant (depth(?)), cold, repellent, soul)
+	teal	(trailing vision(more(?)), light, less weighty)
 gamma(?)green	(night, dark visibility, lush, natural nature, luck, sweaty, exhaustion) >500-600<
 	ghano
-	yellow	(ingraining, unusual, destroying, innocent)
-	beige	(smearing)
+	yellow	(refractional vision(?), ingraining, unusual, destroying, innocent)
+	beige	()
 	white	(blinding, illumination, bright, glow, soul)
 	grey	(dense, hard, looming, foreboding, smokey, foggy)
-	pink	(arousing, playful)
-infra 	red 	(heat, thermal)		>450-2400<
-	orange	
-	brown	(sturdy, smelly, curiosity, heavy)
+	pink	(reflection, arousing, playful, mirroring(?), perceptive, toxic(?), invisible to visible(?))
+infra 	red 	(close up (depth(?)), heat, thermal)		>450-2400<
+	orange	(delayed vision(less(?))
+	brown	(particle see through(? mud water) sturdy, smelly, curiosity, heavy)
+
+vision main properties
+pink and purple, (reflective areas) enhanced reflection, fluorescence (charged glow in the dark)
+red and blue 3d/4d enhanced depth perception coming through screen (portal vision(?), pink, orange and purple, teal same effect not as much
+orange and teal, enhanced (fast moving) lightning visibility plasma electricity(?)
+green and brown, enhanced vision in darker and obscured areas, night and foggy(?)
+green and purple, dark/deep underwater fluorescence (?)
+yellow and orange, shallow water (?)
 
 
 visible spectrum
@@ -31,6 +38,7 @@ main color naming: unconnected
 Assigned number, color name, special property name, wavelength/visible spectrum(overlaps), energy photons
 Overlapping as in red light color also charges however not as strongly as ultra violet and some colors do not charge
 Same as some colors illuminate however white illuminates the strongest
+Thermal absorption (temperature, heat, certain light colliding with certain colors)
 
 sorted by natural brightness
 colorless being the center

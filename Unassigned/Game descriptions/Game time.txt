@@ -1,6 +1,7 @@
 time based on world/area/character
 Calculation type (positive or negative)
 direction (count up or count down)
+Constant, static & variable time
 
 Active (& Idle) Amount of time spent:
 	ingame

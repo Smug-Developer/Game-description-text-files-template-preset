@@ -8,4 +8,5 @@ Custom preset modes:
 Avoid changing statistics for difficulties instead change decision making targeting etc
 difficulty should not affect gameplay, statistics, abilities & story directly
 difficulty affecting chosen personalities(ai) personalities with knowledge of combat, strategies etc
-difficulty affecting save files types
+difficulty affecting save files types (deleting or hiding save file on death difficulty, also known as "hardcore")
+do not allow access to data before it is shown on screen for AI or computer controlled (metagaming)

@@ -1,8 +1,9 @@
-Game guard (also known as game security and anti cheat (not relationship type))
+Game guard (also known as game security, cyber security, anti hacking and anti cheat (not relationship type))
 	Avoid:
 		Cross application guarding ((privacy) invasive)
 	Optional Methods: 
 		reports
+		spectating
 		tribunal
 		recording (data)
 		data playback (data playback automated position, collision checks)) (chat frequency)
@@ -15,16 +16,14 @@ Game guard (also known as game security and anti cheat (not relationship type))
 		botting
 		auto clicker
 		scripting
-		metagaming
+		metagaming, Accessing important hidden/restricted data during (realtime) gameplay (code, files)
 		unsafe links
 		(age) inappropriate content
 		harmful behavior (threats)
 		spam
 		undesired online community created modifications
 		undesired online community created modules
-		duping (duplicating items)
 		undesired cross application interactions
-		glitch / bugs / errors
 	Restrictions:
 		timeouts
 		quarantine (overlapping(?))
@@ -40,8 +39,17 @@ Game guard (also known as game security and anti cheat (not relationship type))
 Extras
 	Description
 	Reasonings
+	Tag system
 	Unban system
 	Identifying
 	Detecting (outside / cross application influence)
 	Error handling
 	Damage minimization
+	Recouping losses
+	Small simple gift for errors (unjust restrictions)
+	actively taking advantage of glitch / bugs / errors duping (duplicating items)
+
+Game modes (entire game, all game modes guarding):
+	Casual (similar to ranked)
+	Ranked (more strict)
+	Custom (custom rule sets)

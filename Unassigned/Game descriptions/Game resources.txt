@@ -1,3 +1,4 @@
+Resource allocation
 Nation/Kingdom/Territory resources:
 available/in storage
 

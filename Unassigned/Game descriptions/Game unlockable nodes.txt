@@ -17,6 +17,8 @@ Point unlocks (biomes):
 		(more or less alert at night, slightly better at physical skill learnings) (extras)
 	Traits 
 		(slightly more or less charismatic, intimidation, funny, smart)
+	Miracles
+		(Special abilities)
 	Boon(?)
 		(change of statistics(?) vitality, learning(?))
 	Statistics
@@ -61,7 +63,7 @@ Magic types (biomes):
 	Plasma/Electrical
 	Absorption
 	Force field
-	Illusion/Mirages/Deception
+	Hallucinations/Illusion/Mirages/Deception/Depiction/Propaganda/Perception
 	Spiritual
 	Soul
 	Shadow/Ethereal
@@ -97,12 +99,25 @@ Magic types (biomes):
 	Memoration
 	Incantation (Formulas)
 	Infusion (Lightning swords, Charms, objects, beings)
+	Sealings/Seals
 	Ritual
 	Luminous/Fluorescence (shine light)
 	Dark (make area darker)
 	Time (timer based enchantments, permanent, increase length, lower etc)
 	Regeneration Increase/decrease
 	Necromancy
+
+group:
+	low/medium/high skill ceiling
+	early/mid/late game strength
+	low/medium/high pricing
+	compatibility
+	upgradeability
+
+upgrades:
+	duplicates (at amount slight upgrades as more upgrades increase amount required to upgrade):
+		point unlocked
+		item unlocked
 
 Statistics (display only full numbers round up/down):
 	+- 1, 2, 5, 8, 10 (positive / negative)
@@ -114,6 +129,7 @@ Statistics (display only full numbers round up/down):
 	Mana (3D magic types? Heat, Liquid, Necro, Reanimation, Objects etc)
 	Morale (1D)
 	Aura (3D)
+	Age (Timer that adds and removes time depending on events and other statistics, for certain characters and species 	(not gods))
 	Weight (1D)
 	Wealth (1D & 2D & 3D)
 	Looks (3D? beauty, scary, painful, skilled, strong etc)
@@ -121,3 +137,10 @@ Statistics (display only full numbers round up/down):
 	Memory (4/5D?)
 
 Allow simpler unit/character management during others turns (?) (formations / custom presets / items / spells / statistics)
+
+Use file board system(?) (same for loot items, created characters, modifications, modules etc)
+	wait for amount (tagged & approved)
+	approved group:
+		randomize sequential/seed
+		sort group filter
+		apply biomes
