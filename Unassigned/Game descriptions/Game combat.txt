@@ -120,7 +120,7 @@ Unit sights:
 knowledge types:
 	map knowledge
 	area knowledge
-	unit/species knowledge
+	unit/species knowledge (show known weak points, inspect)
 	environmental knowledge
 	item knowledge
 	magical knowledge

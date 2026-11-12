@@ -22,6 +22,17 @@ Speed (first one gets it)
 Deception
 simple small game
 
+Effect:
+	Portable storage
+	Storage
+	Equipped
+	Social standing (group / (chosen, random) friend equipped, bonded)
+
+Default:
+	Slot:
+		Equip -(1)
+		Storage -(1)
+
 Identifying (memory):
 	type
 	name

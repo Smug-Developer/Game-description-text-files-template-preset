@@ -21,7 +21,7 @@ Tooltips:
 		Ears apply +20 beauty/attractiveness from the perspective of certain species (humans)
 		Ears remove -X points from selection points (race/species/limb(?))
 
-Race/Species Colors (point based(?) like abilities/skills/languages(?))
+Race/Species Colors (point based, dice roll(?) like abilities/skills/languages(?))
 	(Optionalities depend on chosen race/species)
 	(Procedurally generate a preview character (Random buttons, add randomness types)) (Official selected preset)
 Hair (Optional)
@@ -41,6 +41,24 @@ Allow for magnifying(zooming) in and out defined minimum and maximum
 Add return to default rotation button
 Add return to default magnification(zoom) button
 Allow for temporarily hiding other parts (hide all except selected button, show all button)
+
+Ancestry types (how did your character become to be):
+	Evolution (from species)
+	Mutation
+	Artificial
+	Material
+	Pregnancy:
+		Embryo:
+			Physical:
+				Internal:
+					Fetal
+				Outer:
+					Egg
+			Magical:
+	Spore
+	Seed
+	Nothing
+		
 
 stages (1 to 5) (conditional human usually age):
 	automatically:
@@ -74,3 +92,62 @@ Assigned:
 	Soul(s)
 	Personality(s)
 	Characteristic(s)
+
+Attainable titles (Automatic(?)) (chosen/(most) used paths, abilities, weapons) Shown by percentages? 80% fighter, 30% Knight 50% Warlock (25% weightings?)(?):
+	Class (items statistics abilities skills):
+		Melee:
+			Warriors:
+				Knight
+				Fighter
+				Battlemage
+			Rogue
+		Ranged:
+			Ranger
+			Warlock
+			Mages:
+				Wizard
+				Witch(er)
+				Sorcerer
+			Wayfarer
+			Inquisitor
+			Gunslinger
+		Crafter:
+			Alchemist
+			Artificer
+		Proxy:
+			Mages:
+				Conjurer
+				Evoker
+				Summoner
+			Enchanter
+			Metamorph/Polymorph
+			Necromancer
+		Hybrid:
+			Cleric
+			Shapeshifter
+		Unassigned:
+			Monk
+			Priest
+			Shaman
+			Druid
+			Bard
+			Paladin
+			Guardian
+			Occultist
+		
+	Role (mostly items statistics playstyle):
+		Engager
+		Support
+		Summoning
+		Damage
+		Flanker/Ganker
+		Kiter
+		Tank
+		Healer
+		Distractions
+		Area of effect
+		Crowd control (immobilizing/incapacitating)
+		Protections
+		Creationist
+		Oppertunist
+		Rng (random, mystery, luck(?))

@@ -4,11 +4,14 @@ Creator(s) of special items, abilities, spells, species, languages...
 Deity(ies):
 Creator(s) of special buildings, objects, decorations, travel between worlds, time, seasons, cycles(day/night), deaths, guidance (quests, faith/religious trades/offerings)...
 
-Soul(s):
+Protective Soul(s):
 Creator(s) of the realm, dimensions, universe, worlds, planets, continents, areas, (temporary, similar) personalities, characteristics and characters...
 
-Souls
-proxy souls (Temporary, similar)
+Soul(s) types:
+	Main
+	Proxy (Temporary, similar)
+	Protective (Permanent or Temporary, similar)
+
 Heart
 
 also referred to as God(s):
@@ -32,6 +35,7 @@ translations of different offsets of algorithms and mathematical equations (lang
 		after 1 comes 3 instead of 2...
 		mathematical nothing defined as 0, mathematical nothing defined as undefined
 		calculational negative 0, not including calculational negative 0
+		not allowing folders or multiple projects with identical names
 
 computer controlled (cpu), artificial intelligence (ai):
 	evolved (self learning, self evolving):
@@ -78,8 +82,7 @@ Microcomputers (screen, controllers) (Titans)
 		Datastreams (Collossus)
 			Attachments (camera, wifi), applications (Demigods)
 
-sometimes associated
-faith, beliefs/believes, religion and culturous type(s):
+sometimes associated faith, beliefs/believes, religion and culturous type(s):
 	nothing
 	deeds (deeds towards the alignment, helping others, wars, creating items)
 	trinkets (items to carry share a bond)
