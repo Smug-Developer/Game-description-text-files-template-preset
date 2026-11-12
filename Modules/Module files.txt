@@ -12,6 +12,7 @@ Offline mode, multiplayer, recommended modifications, official/community created
 
 module hotswapping (changing the module during application runtime (adding, removal, adjusting etc))
 
+Custom skin model, (shader/model)
 
 (as modules(?))
 Controlled by (Label/Indicator):

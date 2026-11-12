@@ -1,17 +1,39 @@
 Similarity royalty free license.
 
+License type:
+	"Refusive":
+		Default:
+			Refusive.
+			Denied.
+			Not permitted.
+			Conditionally.
+			Requirements:
+				Permissions:
+					Acknowledged.
+					Agreed.
+					Stated.
+					Defined.
+					Visualized.
+					Understood.
+					Verified.
+
+Warning:
+	Not liable.
+
 Permitted:
-    Usage
-    Use this project in projects.
-    Remixing
-    Modifying, publishing, combining with other assets.
-    Commercial
-    Use in paid work, products, or marketing.
-    Storing
-    Making backups and sharing, saving, copying, downloading, uploading, distributing.
+	Usage:
+		Use this project in projects.
+	Remixing:
+		Modifying, publishing, combining with other assets.
+	Commercial:
+		Selling, Use in paid work, products, or marketing.
+	Storing:
+		Making backups and sharing, saving, copying, cloning, downloading, uploading, distributing.
+	Uploading:
+		Uploading a modified version to a distribution service.
 
 Not permitted:
-    Redistribution
-    Uploading the same project to the same distribution service.
-    Selling
-    Selling the same project.
+	Removing:
+		Basic functional project, license permissions.
+	Redistribution:
+		Uploading this project unchanged to the same distribution service multiple times.

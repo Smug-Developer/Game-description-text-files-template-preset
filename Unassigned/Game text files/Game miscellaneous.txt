@@ -1,8 +1,25 @@
 Pings
 Markers
 Emotes/emote wheel circle big choices, small choices
+Storage wheel (Backpack, pockets, by distance storage chest...(?))
 Voice lines
 drawing (?)(Optional show/hide)
 
-loading screen art, image/animation/video, hint/tip/knowledge/tutorial, short visual novel style on specific locations(?)
-multiplayer (waiting screen, others still loading), (same as loading screen(?)), optional dungeon(?)
+loading/waiting screen, resource allocation, unused resources available for:
+	resource intensiveness:
+		less:
+			loading estimation (time)
+			loading progress (single, multiplayer)
+			art
+			image/animation/video
+			hint/tip/knowledge/tutorial
+			visual novel style (predictive possible encounters (short) (on specific locations(?))
+			maze style dungeon crawler turn based (predictive possible encounters) (combat)(?)
+			generated contents:
+				documentation, Atlas, Map, Encyclopedia
+				data, statistics, dictionary, lexicon, contributors
+				change notes
+		more:
+			optional dungeon, card game, events...(?)
+			different applications (games)
+			

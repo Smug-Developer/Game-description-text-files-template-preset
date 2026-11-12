@@ -1,23 +1,22 @@
 Official tags default:
+	Grand strategy
+	Real time strategy
+	Role playing game
+	Anime
+	Modifications
+	Modules
+	Compatibilic
+	Game
+	Digital
+	Online
+	Multiplayer
+	Co-op
+	local
+	Offline
+	Application
 
-Grand strategy
-Real time strategy
-Role playing game
-Anime
-Modifications
-Modules
-Compatibilic
-Game
-Digital
-Online
-Multiplayer
-Co-op
-local
-Offline
-Application
 
-
-(use file board system)
+(use file board system, allow for multiple folder/project/file identical names, language translation)
 Modification and module tags:
 	modification (development) tools
 	modification

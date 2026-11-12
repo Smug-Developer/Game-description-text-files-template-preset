@@ -61,28 +61,28 @@ reanimated flora and hybrid flora ()
 (ghosts/spirits) from recently deceased bodies (ritual (?))
 
 Short & long duration changes:
-metamorphosis
-evolving
-mutating
-transforming
-(Generative / procedural)
+	metamorphosis
+	evolving
+	mutating
+	transforming
+	(Generative / procedural)
 
 size categories (unique per species):
-miniscule
-tiny
-small
-medium
-large
-gigantic
-massive
-colossal
+	miniscule
+	tiny
+	small
+	medium
+	large
+	gigantic
+	massive
+	colossal
 
 mass/weight categories (unique per species):
-very light
-light
-medium
-heavy
-very heavy
+	very light
+	light
+	medium
+	heavy
+	very heavy
 
 Amphibians
 	Aquatic/Overground
@@ -135,7 +135,7 @@ Namings (differences):
 Sorted and sectioned
 type:	species: subspecies:
 
-Humanoid:
+Kemono (Humanoid):
 	Humans:
 		englishmen
 		barbarians
@@ -147,6 +147,8 @@ Humanoid:
 		wood elves
  		dark elves
 		high elves
+		lunar elves
+		solar elves
 
 	Dwarfs:
 		chaos dwarves
@@ -177,6 +179,7 @@ Humanoid:
 		Mermaids
 		Sirens
 		Kuo toa(?)
+		Sahuagin(?)
 		Murlocs
 
 Variables:
@@ -188,7 +191,7 @@ Variables:
 		wraiths
 
 	Undead:
-		ghouls
+		ghouls (hollows)
  		skeletons (also replica):
 			Physically (held together)
 			Organical
@@ -210,7 +213,7 @@ Android (Artificial intelligence):
 		Androidless oriented:
 			Human
 			Gender
-	Robotics:
+	Robotics (Hybrid, Kemono, Humanoids):
 		Mechanoids:
 		Automatons:
 		Bots:
@@ -349,7 +352,7 @@ other:
 			Wood
 		Slimes
 		Blobs
-		Nymps(?)
+		Nymphs(?)
 
 
 (File board) Images & Connected files on character board concept tagging system (approval)
@@ -390,13 +393,16 @@ other:
 File board Language files(?)
 
 Display language (add additional languages):
-	English (EN)
-		Dialect:
-			(EU)
-			(US)
-			(UK)
-	中国人 (CH)
-	Deutsch (DE)
+	Human (HM)
+		English (EN)
+			Dialect:
+				(EU)
+				(US)
+				(UK)
+			Sub Dialect:
+				(mixed dialects with main languages european elvish/dwarven english)
+		中国人 (CH)
+		Deutsch (DE)
 	Dwarven (DW)
 	Elvish (EL)
 

@@ -4,3 +4,4 @@ description is to be retrieved from the generated contents
 (Most believed to be accurate) item, lore, character etc information is to be retrieved from (and written to (offline)) generated contents
 
 displayed information, specified between what is allowed and not allowed to be overlayed with other information (fabricated lore)
+what is and is not allowed to be precise (statistics, lore, descriptions...)

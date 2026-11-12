@@ -4,6 +4,9 @@ Default selected / preset (high 120 frames per second)
 Fallback / Standard (medium, 60 frame per second)
 Minimal requirements (low, 30 frames per second)
 
+Default language
+Language detection
+
 benchmark to determine optimal settings (restrict (optional(?)) some multiplayer modes on not up to standard settings (too long loading times))
 
 3D default

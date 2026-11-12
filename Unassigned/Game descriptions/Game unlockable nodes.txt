@@ -6,25 +6,53 @@ class title would be generated based on actions/unlocks/wearables/usables
 
 Show highlight preview new available (amount, quick select, show biome)
 
+statistics, points, dimensional, simplified view (grouping, translation to 2D), (tooltip) detailed view, advanced view...
+
+Actions:
+	Actions (movement, long casting spell) (long distance(?))
+	Bonus actions (short casting spell, short attacks) (short distance(?))
+	Reactions (quick short action)...
+	Special (improved?) action (?)
+	Innate action (?)
+	Ancestry action (?)
+	Star sign (Zodiac, astrology, celestial) action (?)
+
 Point unlocks (biomes):
 	Abilities 
 		(see at night, create and mix magic) (unlockable)
 	Skills 
 		(climbing swimming spells magic enchantments) (learning)
 	Perks 
-		(specific potion is slightly more or less effective) (extras, usables)
+		(specific potion is slightly more or less effective, more damage, better accuracy) (extras, usables)
 	Feats 
 		(more or less alert at night, slightly better at physical skill learnings) (extras)
 	Traits 
 		(slightly more or less charismatic, intimidation, funny, smart)
+	Talents
+		
 	Miracles
 		(Special abilities)
 	Boon(?)
 		(change of statistics(?) vitality, learning(?))
-	Statistics
-		(memory, vigor(strength), vitality(health), stamina(endurance), mana(magical endurance), statistical 			regeneration / 	decreasings, morale (willpower))
+	Statistics/Attributes (defined by race/species, between minimum and maximum points)
+		memory (remembering)
+		vigor (strength)
+		vitality (health)
+		stamina (physical endurance)
+		mana (magical endurance)
+		innate power (inner power/endurance)
+		willpower/morale (mental endurance)
+		statistical regeneration / decreasings
+		spirit (fighting endurance)
+		intelligence (thoughts)
+		wits (thoughts speed)
+		wisdom (decision making)
+		virtue (standards)
+		perception (perceiving)
 	Items
 		(crafting, technology)
+	Ancestries
+		(birth types)
 	Social
 		(charming, funny, direct)
 	Buildings
@@ -72,7 +100,8 @@ Magic types (biomes):
 	Enhancements/Enchantments (+1 luck, objects, beings)
 	Curses
 	Summoning
-	Bonding/Binding
+	Control/Persuasion/Manipulation
+	Bonding/Binding/attuning
 	Healing
 	Removal
 	Cleansing
@@ -86,10 +115,10 @@ Magic types (biomes):
 	Mutational
 	Levitation
 	Sound
-	Explosion
+	Explosion/implosion
 	Creation/Instantiation (Vines, rain)
 	Materialization
-	Reanimating
+	animated/Reanimating
 	Air Fog/Smoke/Smog/Bubbles
 	Liquid (water)
 	Elemental (earth golem)
@@ -123,13 +152,14 @@ Statistics (display only full numbers round up/down):
 	+- 1, 2, 5, 8, 10 (positive / negative)
 	% (5% of total health is added to stamina)
 	* (damage addition damage + health * stamina)
+
 (2/3 Dimensional? (singular multi(10+) dimensional translated to 2/3 dimensional each)):
 	Health (1D)
 	Stamina (2D)
 	Mana (3D magic types? Heat, Liquid, Necro, Reanimation, Objects etc)
 	Morale (1D)
 	Aura (3D)
-	Age (Timer that adds and removes time depending on events and other statistics, for certain characters and species 	(not gods))
+	Age (Timer that adds and removes time depending on events and other statistics, for certain characters and species (not gods))
 	Weight (1D)
 	Wealth (1D & 2D & 3D)
 	Looks (3D? beauty, scary, painful, skilled, strong etc)

@@ -1,6 +1,6 @@
 art style names:
 
-Anime <Main focus>
+Anime (Modern) <Main focus>
 Digital
 Illusion
 Sticky
@@ -21,11 +21,14 @@ Vintage
 Retro
 
 Layered / Parallax
-2D,2.5D,3D,3.5D,4D etc
+2D, 2.5D, 3D, 3.5D, 4D...
 
 not included / avoid:
+Synthetic
 	--> "Realistic art style name"???
 Toon
+Stick (man)
+Fractal/Fractional
 Inflatable
 Minimalistic
 Abstract

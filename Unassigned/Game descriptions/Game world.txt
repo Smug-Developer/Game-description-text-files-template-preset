@@ -1,5 +1,6 @@
 overworld tiles(?)
 
+Multi layered shaped tiles/grid (selectable, presets)
 free form type movement (optional tiled, subdivided tiles(?)) (3 Dimensional tiles, height(?))
 
 asymmetrical triangle shapes:
@@ -27,3 +28,10 @@ predictions based on knowledge(?) and skill (accuracy) (in combat knowledge) (es
 	
 
 leader(s) advisories recommendations / advises indicators
+
+World generation:
+	Presets, downloadable
+	Each world randomly seeded generated, rating, saving entire preset / preview snapshot seed (?)
+	Preset downloadable worlds (Loading time, bigger file size)
+	Self generated (seed), (generation time)
+	Self created worlds (upload) (?)

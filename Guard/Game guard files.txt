@@ -1,4 +1,4 @@
-Game guard (also known as game security, cyber security, anti hacking and anti cheat (not relationship type))
+Game guard (Rule set, official custom default) (also known as game security, cyber security, anti hacking and anti cheat (not relationship type))
 	Avoid:
 		Cross application guarding ((privacy) invasive)
 	Optional Methods: 
@@ -36,6 +36,8 @@ Game guard (also known as game security, cyber security, anti hacking and anti c
 		login
 		chat
 		market
+		spectating
+
 Extras
 	Description
 	Reasonings
@@ -50,6 +52,10 @@ Extras
 	actively taking advantage of glitch / bugs / errors duping (duplicating items)
 
 Game modes (entire game, all game modes guarding):
+	Offline (verify upon going online, stay offline option)
+	Singleplayer (similar to online)
 	Casual (similar to ranked)
 	Ranked (more strict)
-	Custom (custom rule sets)
+	Custom (custom rule sets, mode specific)
+
+Rule sets usually more loosely defined and room for error for tabletop, casual, singleplayer games...

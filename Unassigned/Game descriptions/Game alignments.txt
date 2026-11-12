@@ -1,0 +1,21 @@
+Alignment types
+
+Race
+Species
+Personalities
+Appearance
+
+Continents
+Nations
+Regions
+Kingdoms
+Provinces
+Territories
+Areas
+Zones
+
+Covenants
+Factions
+Armies, Guilds
+Teams
+Groups

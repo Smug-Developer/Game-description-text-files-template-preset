@@ -5,6 +5,7 @@ Friendly fire (Default on)
 (offline/online singleplayer, offline/online co-op, offline/online multiplayer)
 
 multiplayer and co-op companions (custom and or ai(s)(personalities))
+commitment & availability rating, committed to playing untill finished, dedicated cross platform friendslist (played with, simple add)
 
 Casual:
 	offline hidden rating (not shown ingame)
@@ -40,7 +41,7 @@ Modes: <Main focus>
 	Inverted Grouped Battle royale (Predefined unlimited size, join/leave system)
 	
 	Team battles (8v8 each controlling (4?) battalions)
-	Custom mode (practice mode) (modification, module syncing)
+	Custom mode (practice mode) (modification, module syncing) (join (lobby/game) code / password)
 
 Default (team) battles:
 	Casual: (map rotation) (balanced difficulty) (8v8)
@@ -51,17 +52,17 @@ Queue system:
 	Cooldown timer (prevent spamming)
 
 turn timer:
-End turn button indicator highlight on turn almost over (auto) (short, medium, none)
+	End turn button indicator highlight on turn almost over (auto) (short, medium, off)
 
 statistics of the main game (server), affecting other games
 
-Standalone(?) modes (usually multiplayer):
+Standalone(?) modes (usually multiplayer) (waiting on others (during or loading), games / events(?)):
 	Chat application(s) (Text, Voice, Streaming):
 		Stand alone connected
 		Ingame dedicated connected
 		Hub dedicated connected
 	Trading card game
-	Roleplaying games(rpgs) (2D, 3D, Dungeon crawlers, Horde(Limited, Endless), roguelikes)
+	Roleplaying games(rpgs) (2D, 3D, 4D+, Dungeon crawlers, Horde(Limited, Endless), roguelikes)
 	VRgames (multiplayer)
 	Mmorpg
 	Puzzles
@@ -69,6 +70,8 @@ Standalone(?) modes (usually multiplayer):
 	Arcadegames
 	Moba (8vs8)
 	Visual novels
+	Creature creators/designers
+	Building creators/designers
 	Idlegame (2D, 3D)
 	Sidescrollers
 	
